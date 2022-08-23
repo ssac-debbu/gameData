@@ -1,0 +1,201 @@
+rank,rank_change,app_name,publisher_name,google_rank,apple_rank,onestore_rank
+1,,리니지W,NCSOFT,1.0,2.0,
+2,,오딘: 발할라 라이징,Kakao Games Corp.,3.0,1.0,
+3,1.0,리니지M,NCSOFT,2.0,3.0,
+4,-1.0,리니지2M,NCSOFT,4.0,10.0,
+5,1.0,블레이드&소울2,NCSOFT,5.0,26.0,
+6,2.0,기적의 검,4399 KOREA,6.0,19.0,7.0
+7,3.0,히어로즈 테일즈,37 Mobile Games,7.0,36.0,4.0
+8,-3.0,블루 아카이브,NEXON Company,10.0,21.0,2.0
+9,4.0,바람의나라: 연,NEXON Company,15.0,12.0,1.0
+10,4.0,쿠키런: 킹덤,Devsisters Corporation,11.0,4.0,12.0
+11,-2.0,라이즈 오브 킹덤즈,LilithGames,8.0,17.0,
+12,7.0,Roblox,Roblox Corporation,9.0,53.0,
+13,2.0,FIFA ONLINE 4 M by EA SPORTS™,NEXON Company,22.0,5.0,6.0
+14,-2.0,제2의 나라: Cross Worlds,Netmarble,12.0,6.0,
+15,-8.0,삼국지 전략판,Qookka Games,34.0,11.0,3.0
+16,-5.0,원신,miHoYo Limited,13.0,8.0,
+17,18.0,한게임 포커,NHN BIGFOOT,17.0,54.0,29.0
+18,-1.0,심포니 오브 에픽,Moonton,18.0,13.0,
+19,-3.0,블레이드&소울 레볼루션,Netmarble,14.0,34.0,
+20,-2.0,V4,NEXON Company,16.0,33.0,
+21,102.0,무한돌파삼국지 리버스,NATRIS,20.0,14.0,
+22,1.0,퍼즐 오브 Z,"BLANCOZONE NETWORK CO., LIMITED",27.0,59.0,10.0
+23,24.0,"피망 포커: 카지노 로얄 (7포커, 로우바둑이, 하이로우)",NEOWIZ corp,19.0,111.0,57.0
+24,2.0,미르4,"Wemade Co., Ltd",57.0,63.0,5.0
+25,13.0,카트라이더 러쉬플러스,NEXON Company,33.0,7.0,
+26,37.0,한게임포커 클래식 with PC,NHN Corp.,21.0,,82.0
+27,43.0,미니어스,BILIBILI,24.0,30.0,
+28,2.0,A3: 스틸얼라이브,Netmarble,23.0,60.0,
+29,-9.0,리니지2 레볼루션,Netmarble,30.0,20.0,
+30,2.0,메이플스토리M,NEXON Company,35.0,9.0,
+31,-7.0,뮤 아크엔젤2,Webzen Inc.,25.0,77.0,
+32,-1.0,R2M,Webzen Inc.,26.0,87.0,
+33,3.0,피파모바일,NEXON Company,32.0,18.0,
+34,-7.0,요신:구미호뎐,XiaoMa,31.0,,34.0
+35,-13.0,엠파이어 & 퍼즐 (Empires & Puzzles),Small Giant Games,28.0,79.0,
+36,-8.0,세븐나이츠2,Netmarble,29.0,47.0,
+37,-8.0,S.O.S: 스테이트 오브 서바이벌,KingsGroup Holdings,53.0,37.0,8.0
+38,12.0,꿈의 집 (Homescapes),Playrix,42.0,16.0,
+39,,프리스타일2: 레볼루션 플라잉덩크,ChangYou,40.0,31.0,56.0
+40,-3.0,꿈의 정원 (Gardenscapes),Playrix,37.0,27.0,
+41,5.0,카르마M,Eskyfun Entertainment,43.0,89.0,27.0
+42,-9.0,배틀그라운드,"KRAFTON, Inc.",39.0,23.0,
+43,,아르미스,Netease Games Global,50.0,41.0,23.0
+44,-3.0,에이지 오브 제트: 타워 디펜스,Camel Games Limited,60.0,42.0,15.0
+45,-3.0,건쉽배틀 토탈워페어,JOYCITY Corp.,51.0,74.0,18.0
+46,139.0,에브리타운: 대한민국 600만 유저가 선택한 농장게임,FLERO Games,114.0,75.0,9.0
+47,-22.0,에픽세븐,Smilegate Megaport,36.0,67.0,
+48,,클래시 오브 클랜,Supercell,44.0,35.0,
+49,-28.0,브롤스타즈,Supercell,41.0,43.0,
+50,18.0,컴투스프로야구2021,Com2uS,70.0,58.0,19.0
+51,2.0,뮤 아크엔젤,Webzen Inc.,38.0,105.0,
+52,24.0,Pokémon GO,"Niantic, Inc.",48.0,22.0,
+53,-9.0,궁3D,WISH INTERACTIVE TECHNOLOGY LIMITED,71.0,61.0,26.0
+54,-2.0,갑부: 장사의 시대,BLANCOZONE NETWORK KOREA,111.0,57.0,14.0
+55,7.0,황제라 칭하라,"Clicktouch Co., Ltd.",83.0,46.0,24.0
+56,15.0,전략적 팀 전투: 리그 오브 레전드 전략 게임,"Riot Games, Inc",88.0,15.0,
+57,-17.0,쿠키런: 오븐브레이크 - 쿠키들의 러닝 게임!,Devsisters Corporation,63.0,29.0,83.0
+58,8.0,라스트 쉘터: 서바이벌,Long Tech Network Limited,153.0,127.0,11.0
+59,-3.0,인피니티 킹덤,Youzu (Singapore) Pte. Ltd,85.0,56.0,33.0
+60,34.0,한게임 섯다&맞고,NHN BIGFOOT,55.0,48.0,74.0
+61,81.0,붕괴3rd,miHoYo Limited,46.0,81.0,
+62,-13.0,라이즈 오브 엠파이어,Long Tech Network Limited,108.0,92.0,20.0
+63,-6.0,"왕이되는자 - 서민에서 왕까지, 세상을 흔드는 자",CHUANG COOL ENTERTAINMENT,136.0,68.0,17.0
+64,11.0,태왕: 가람의 길,Longtu Korea Inc.,54.0,,49.0
+65,-14.0,서머너즈 워: 천공의 아레나,Com2uS,47.0,93.0,
+66,-5.0,AFK 아레나,LilithGames,56.0,40.0,
+67,-7.0,로드 모바일: 타워 디펜스,IGG.COM,45.0,,201.0
+68,-23.0,원펀맨: 최강의 남자,GAMENOW TECHNOLOGY,86.0,,28.0
+69,9.0,캔디크러쉬사가,King,52.0,62.0,
+70,-3.0,달빛조각사,Kakao Games Corp.,110.0,83.0,25.0
+71,-6.0,클래시 로얄,Supercell,73.0,28.0,
+72,36.0,마피아42,TEAM42,182.0,24.0,35.0
+73,-15.0,라그나로크 오리진,"GRAVITY Co., Ltd.",156.0,78.0,22.0
+74,52.0,뮤오리진2,Webzen Inc.,49.0,,
+75,15.0,그랑삼국,Youzu (Singapore) Pte. Ltd,123.0,,21.0
+76,28.0,피망 뉴맞고: 고스톱 대표 맞고 게임,NEOWIZ corp,58.0,73.0,128.0
+77,-22.0,Top War: Battle Game,Topwar Studio,65.0,51.0,
+78,-5.0,랜덤 다이스(Random Dice) : PvP 디펜스,111%,72.0,39.0,
+79,13.0,마구마구 2021,Netmarble,84.0,32.0,
+80,-6.0,앙상블스타즈!!,HappyElements,94.0,25.0,
+81,187.0,"윈조이 포커 - 블랙잭,바카라,슬롯,로우바둑이를 동시에",Zempot INC.,193.0,,16.0
+82,2.0,라스트오리진,SmartJoy,446.0,,13.0
+83,-6.0,풋볼 마스터 2,GALA Sports,74.0,52.0,
+84,1.0,냥코 대전쟁,PONOS Corporation,61.0,98.0,
+85,2.0,모두의마블,Netmarble,106.0,44.0,60.0
+86,-14.0,검은사막 모바일,PEARL ABYSS,78.0,94.0,69.0
+87,8.0,피쉬돔 (Fishdom),Playrix,75.0,50.0,
+88,-5.0,에보니 - 왕의 귀환,TG Inc.,64.0,99.0,
+89,-8.0,마피아 시티,YottaGame,89.0,104.0,55.0
+90,8.0,에이스 디펜더: 드래곤 슬레이어 전쟁,ACE GAME INTERNATIONAL LIMITED,59.0,,
+91,6.0,사신키우기 온라인,DAERISOFT,105.0,,36.0
+92,1.0,워패스,LilithGames,62.0,,
+93,-13.0,황제의 꿈,37GAMES.AISA,144.0,,31.0
+94,2.0,페어리테일: 무한의 모험,First Meet HK,93.0,66.0,93.0
+95,34.0,트릭스터M,NCSOFT,68.0,121.0,
+96,-32.0,MARVEL 퓨처 레볼루션,Netmarble,66.0,,
+97,104.0,"WPL : 텍사스 홀덤, 토너먼트, 싯앤고",Zempot INC.,67.0,,
+98,-64.0,MARVEL 퓨처파이트,Netmarble,69.0,,
+99,28.0,리그 오브 레전드: 와일드 리프트,"Riot Games, Inc",100.0,45.0,
+100,-31.0,가정교사 히트맨 리본,DAMO NETWORK LIMITED,98.0,76.0,95.0
+101,4.0,천상나르샤,Eyougame Inc.,115.0,,46.0
+102,1.0,케페우스M,Ujoy Games,118.0,,45.0
+103,6.0,King of Avalon: 영토 전쟁,Century Games Publishing,172.0,,32.0
+104,27.0,패밀리 아일랜드 - 농장모험게임,Melsoft Games Ltd,82.0,100.0,
+105,2.0,리치리치,U.LU Games,135.0,115.0,40.0
+106,-15.0,킹 오브 파이터 올스타,Netmarble,122.0,102.0,51.0
+107,-25.0,에오스 레드,BluePotion Games,126.0,,41.0
+108,43.0,리니지M(12),NCSOFT,91.0,86.0,
+109,45.0,한게임 신맞고 : 대한민국 원조 고스톱,NHN PixelCube Corp.,77.0,,161.0
+110,-22.0,임모탈 키우기 : 국산 방치형 액션 RPG,Bad Beans,76.0,,
+111,-32.0,인투더던전,Crazymind Corp,102.0,64.0,
+112,-58.0,로드 오브 히어로즈,CloverGames,79.0,,
+113,27.0,페이트/그랜드 오더,Netmarble,80.0,,
+114,,백야극광,PROXIMA BETA,81.0,,
+115,-4.0,신명2:아수라,Trigirls Studio,137.0,70.0,72.0
+116,-57.0,삼국지M,Efun Company,332.0,,30.0
+117,26.0,애니팡3,SUNDAYTOZ Corp.,87.0,,172.0
+118,15.0,삼국지 오리진,R2 Games Asia,161.0,135.0,42.0
+119,13.0,Yu-Gi-Oh! Duel Links,KONAMI,101.0,84.0,
+120,30.0,킹덤 : 전쟁의 불씨,FOW Games,143.0,,47.0
+121,36.0,애니팡4,SUNDAYTOZ Corp.,95.0,,117.0
+122,-4.0,MLB 9이닝스 21,Com2uS,92.0,128.0,
+123,14.0,슬레이어 키우기,GEAR2,90.0,,
+124,-9.0,조선협객전M,withHUG,196.0,,39.0
+125,-4.0,핀볼도사,Habby,109.0,82.0,
+126,-2.0,라이프애프터,X.D. Global,107.0,88.0,
+127,32.0,창술사 키우기,DragonHeart,104.0,91.0,
+128,-27.0,데카론M,THUMBAGE,141.0,,53.0
+129,-40.0,랑그릿사,ZlongGames,96.0,120.0,
+130,-20.0,컴투스프로야구매니저,Com2uS,239.0,,37.0
+131,13.0,Royal Match,"Dream Games, Ltd.",119.0,71.0,
+132,-30.0,Art of War: Legions,Fastone Games HK,97.0,132.0,
+133,-20.0,용혼,springgame,128.0,96.0,89.0
+134,64.0,Identity V -제5인격,NetEase Games,192.0,38.0,
+135,-16.0,가디언 테일즈,Kakao Games Corp.,99.0,131.0,
+136,12.0,올인삼국 : 한정 쿠폰북 공개,(주) 채플린엔터테인먼트,244.0,,38.0
+137,-9.0,모바일 레전드: Bang Bang,Moonton,138.0,65.0,169.0
+138,0.0,피쉬아일랜드 : 정령의항로,"VALOFE Co., Ltd.",116.0,,92.0
+139,-1.0,명일방주,Yostar Limited.,221.0,95.0,58.0
+140,-10.0,슬램덩크,DeNA HONG KONG LIMITED,168.0,109.0,66.0
+141,-42.0,깨어난 마녀,Yostar Limited.,103.0,,
+142,-3.0,Guns of Glory: 철가면,Century Games Publishing,151.0,,63.0
+143,46.0,하스스톤,"Blizzard Entertainment, Inc.",133.0,80.0,
+144,-58.0,일곱 개의 대죄: GRAND CROSS,Netmarble,113.0,110.0,
+145,0.0,미르의 전설2: 메모리즈 오브 미르,ICEBIRD GAMES,169.0,,61.0
+146,-29.0,프로야구 H3,NCSOFT,124.0,101.0,
+147,13.0,태고신이담:신의한수,Trigirls Studio,142.0,134.0,84.0
+148,-23.0,꿈의 마을 (Township),Playrix,139.0,90.0,
+149,-3.0,파이널삼국지2,Gamepub,226.0,,52.0
+150,-15.0,리니지2M(12),NCSOFT,130.0,103.0,
+151,72.0,파이널기어,BILIBILI,112.0,,
+152,6.0,Project Makeover,"Magic Tavern, Inc.",166.0,69.0,
+153,12.0,프렌즈팝콘,Kakao Games Corp.,117.0,,243.0
+154,-20.0,레알팜 : 진짜 농산물 주는 게임,NEOGAMES,258.0,,54.0
+155,15.0,Minecraft,Mojang,171.0,72.0,
+156,102.0,벽람항로,X.D. Global,120.0,,
+157,15.0,애니팡2,SUNDAYTOZ Corp.,121.0,,
+158,-9.0,캐리비안의 해적: 전쟁의 물결,JOYCITY Corp.,200.0,,70.0
+159,-12.0,DRAGON BALL Z 폭렬격전,BANDAI NAMCO Entertainment Inc.,125.0,,
+160,16.0,카이로스 : 어둠을 밝히는 자,Longtu Korea Inc.,150.0,,97.0
+161,-5.0,카운터사이드,NEXON Company,127.0,,
+162,-26.0,대항해의길,Linekong Korea Co. Ltd.,403.0,,48.0
+163,50.0,1945 공군: 슈팅 비행기게임 - 고전게임,ONESOFT,129.0,,
+164,-52.0,더 워킹데드: 서바이버즈,Galaxy Play Technology Limited,131.0,,
+165,14.0,키스오브워,tap4fun,132.0,,
+166,71.0,더 킹 오브 파이터즈98 UM온라인,FingerFun Limited.,,,43.0
+167,64.0,신삼국지 모바일-코에이 테크모 인증,QookkaGames,,,44.0
+168,0.0,드래고니온,9SplayDeveloper,272.0,55.0,
+169,-3.0,삼국블레이드,"ACTION SQUARE CO., LTD.",159.0,,98.0
+170,5.0,월드 플리퍼,Kakao Games Corp.,134.0,,
+171,-7.0,인피니트 라그랑주,Netease Games Global,241.0,,68.0
+172,-10.0,랭커,KingKongSOFT,179.0,,87.0
+173,-12.0,소녀X헌터,Sincetimes Inc.,224.0,133.0,75.0
+174,-11.0,무협지존: 영웅문,Efun Company,271.0,,65.0
+175,19.0,후궁의 법칙,X.D. Global,140.0,,
+176,38.0,트라하,NEXON Company,197.0,,81.0
+177,26.0,로한M,PLAYWITH Inc.,284.0,,62.0
+178,-4.0,프렌즈팝,Kakao Games Corp.,149.0,,159.0
+179,1.0,위 베어 베어스 더 퍼즐,SUNDAYTOZ Corp.,148.0,136.0,
+180,22.0,오늘도 던전 : 방치형 RPG 키우기,CookApps,164.0,,125.0
+181,11.0,검은강호2: MMORPG 유저 원픽,9SplayDeveloper,181.0,,102.0
+182,-82.0,Hero Wars,NEXTERS GLOBAL LTD,145.0,,
+183,,달토끼 키우기,AbleGames,146.0,,
+184,87.0,별이되어라!,GAMEVIL,360.0,126.0,67.0
+185,-40.0,ONE PIECE TREASURE CRUISE,BANDAI NAMCO Entertainment Inc.,147.0,,
+186,-13.0,삼국지군웅전,FIREPIG LIMITED,188.0,97.0,
+187,64.0,애니팡 포커,PLAYLINKS Corp.,157.0,,164.0
+188,-20.0,팬덤시티 - 실사풍 미녀 게임,nxu inc.,,,50.0
+189,15.0,클래시 오브 킹즈 (Clash of kings),Elex Wireless,213.0,,86.0
+190,55.0,BIGPOT 999,주식회사 레디나인,152.0,,
+191,27.0,프렌즈타운,Kakao Games Corp.,154.0,,
+192,78.0,나의 히어로 아카데미아: 최강 히어로,Bluetaku Pte. Ltd.,165.0,124.0,
+193,41.0,레이븐 : LEGION,Netmarble,155.0,,
+194,-78.0,DRAGON BALL LEGENDS -드래곤 볼 레전즈-,BANDAI NAMCO Entertainment Inc.,158.0,,
+195,-42.0,클론다이크 대탐험,VIZOR APPS LTD.,160.0,,
+196,15.0,동방불패 모바일,Perfect World Korea,267.0,,76.0
+197,,행복의 저택,"Magic Tavern, Inc.",162.0,,
+198,-20.0,아르카,U.LU Games,184.0,,133.0
+199,18.0,찐삼국,ICEBIRD GAMES,236.0,,88.0
+200,6.0,전쟁의 성화 (War and Order),Camel Games Limited,163.0,,
