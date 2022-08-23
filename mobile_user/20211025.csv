@@ -1,0 +1,201 @@
+rank,rank_change,app_name,publisher_name,biz_category_sub,value
+1,,브롤스타즈,Supercell,액션게임,4.94
+2,,쿠키런: 킹덤,Devsisters Corporation,롤플레잉게임,6.53
+3,,Roblox,Roblox Corporation,어드벤처게임,4.49
+4,,피망 뉴맞고: 고스톱 대표 맞고 게임,NEOWIZ corp,카지노게임,1.25
+5,,Pokémon GO,"Niantic, Inc.",어드벤처게임,1.62
+6,,배틀그라운드,"KRAFTON, Inc.",슈팅게임,2.6
+7,,카트라이더 러쉬플러스,NEXON Company,운전/레이싱게임,0.89
+8,1.0,클래시 로얄,Supercell,전략게임,20.32
+9,-1.0,무한의 계단,NFLY STUDIO,아케이드게임,5.89
+10,8.0,쿠키런: 오븐브레이크 - 쿠키들의 러닝 게임!,Devsisters Corporation,아케이드게임,35.03
+11,-1.0,Minecraft,Mojang,액션게임,2.54
+12,-1.0,한게임 신맞고 : 대한민국 원조 고스톱,NHN PixelCube Corp.,카지노게임,0.09
+13,,전략적 팀 전투: 리그 오브 레전드 전략 게임,"Riot Games, Inc",전략게임,1.9
+14,-2.0,캔디크러쉬사가,King,캐주얼게임,0.26
+15,2.0,프렌즈팝콘,Kakao Games Corp.,퍼즐/퀴즈게임,21.57
+16,6.0,좀비고등학교,AWESOMEPIECE,아케이드게임,27.44
+17,-3.0,꿈의 집 (Homescapes),Playrix,캐주얼게임,-1.89
+18,-3.0,클래시 오브 클랜,Supercell,전략게임,2.43
+19,-3.0,FIFA ONLINE 4 M by EA SPORTS™,NEXON Company,스포츠게임,-1.84
+20,,애니팡2,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.04
+21,-2.0,꿈의 정원 (Gardenscapes),Playrix,캐주얼게임,-0.86
+22,-1.0,리그 오브 레전드: 와일드 리프트,"Riot Games, Inc",전략게임,-2.25
+23,,Rummikub,Kinkajoo,보드게임,0.8
+24,1.0,애니팡4,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,-0.74
+25,1.0,프렌즈팝,Kakao Games Corp.,퍼즐/퀴즈게임,-0.51
+26,1.0,애니팡3,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.12
+27,2.0,랜덤 다이스(Random Dice): PvP 디펜스,111%,전략게임,3.82
+28,-4.0,Pokémon UNITE,The Pokemon Company,액션게임,-14.69
+29,-1.0,라이엇 모바일,"Riot Games, Inc",게임커뮤니티,-4.76
+30,,"피망 포커: 카지노 로얄 (7포커, 로우바둑이, 하이로우)",NEOWIZ corp,카지노게임,1.82
+31,,애니팡 맞고,PLAYLINKS Corp.,카지노게임,1.84
+32,0.0,인투더던전,CRAZYMIND Corp.,,
+33,2.0,오딘: 발할라 라이징,Kakao Games Corp.,롤플레잉게임,1.63
+34,,냥코 대전쟁,PONOS Corporation,캐주얼게임,0.11
+35,-3.0,원신,miHoYo Limited,어드벤처게임,-5.63
+36,-3.0,심포니 오브 에픽,Moonton,전략게임,-6.99
+37,-1.0,워드퍼즐 - 단어 게임! 재미있는 단어 퍼즐,Kerun Games,퍼즐/퀴즈게임,0.05
+38,2.0,U+프로야구(모든 통신사 이용가능),LG유플러스(LG Uplus Corporation),야구,8.3
+39,-1.0,애니팡 사천성,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.08
+40,-3.0,피파모바일,NEXON Company,스포츠게임,-4.19
+41,-2.0,캔디크러쉬소다,King,캐주얼게임,1.2
+42,-1.0,한게임 포커,NHN BIGFOOT,카지노게임,1.69
+43,1.0,Among Us,Innersloth LLC,액션게임,11.9
+44,-2.0,컴투스프로야구2021,Com2uS,스포츠게임,0.06
+45,2.0,스도쿠 - 두뇌 훈련용 퍼즐 게임,Easybrain,보드게임,2.27
+46,3.0,장기,게임 스튜디오 모노몹,보드게임,0.99
+47,6.0,라스트오리진,SmartJoy,,9.52
+48,,프렌즈타운,Kakao Games Corp.,퍼즐/퀴즈게임,0.4
+49,11.0,고스트워 : 캐주얼 배틀 아레나,RHAON,전략게임,20.47
+50,5.0,Rider,Ketchapp,아케이드게임,9.4
+51,-5.0,피쉬돔 (Fishdom),Playrix,퍼즐/퀴즈게임,-4.76
+52,-7.0,미니어스,BILIBILI,롤플레잉게임,-9.38
+53,-3.0,모두의마블,Netmarble,보드게임,-3.76
+54,-3.0,맞고의 신 : 카카오 공식 무료 고스톱,"Wemade Max Co., Ltd.",카지노게임,0.46
+55,-3.0,가디언 테일즈,Kakao Games Corp.,롤플레잉게임,0.27
+56,-13.0,프렌즈샷: 누구나골프,Kakao Games Corp.,스포츠게임,-17.2
+57,-3.0,위 베어 베어스 더 퍼즐,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,-0.01
+58,-2.0,메이플스토리M,NEXON Company,롤플레잉게임,0.67
+59,6.0,고스트헌터 - 퇴마사키우기,DAERISOFT,어드벤처게임,14.3
+60,-1.0,마피아42,TEAM42,전략게임,2.56
+61,-4.0,Project Makeover,"Magic Tavern, Inc.",캐주얼게임,-4.55
+62,-1.0,리니지M,NCSOFT,롤플레잉게임,1.4
+63,5.0,앙상블스타즈!!,HappyElements,시뮬레이션게임,7.27
+64,2.0,행복의 저택,"Magic Tavern, Inc.",퍼즐/퀴즈게임,6.43
+65,8.0,골팡 골프 부킹. 조인. 국내.해외 골프투어 필수어플,(주)골팡,골프,10.34
+66,-4.0,로드 오브 히어로즈,CloverGames,롤플레잉게임,-3.11
+67,-9.0,하스스톤,"Blizzard Entertainment, Inc.",카드게임,-10.02
+68,-4.0,Royal Match,"Dream Games, Ltd.",퍼즐/퀴즈게임,0.43
+69,,애니팡,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,2.08
+70,-3.0,Toon Blast,Peak,퍼즐/퀴즈게임,-0.14
+71,1.0,명일방주,Yostar Limited.,전략게임,4.71
+72,7.0,피망 섯다,NEOWIZ corp,카지노게임,13.52
+73,-2.0,한게임 섯다&맞고,NHN BIGFOOT,카지노게임,0.74
+74,-4.0,꿈의 마을 (Township),Playrix,캐주얼게임,-1.21
+75,-1.0,뱅드림! 걸즈 밴드 파티!,Kakao Games Corp.,리듬/타일게임,2.73
+76,-1.0,궁수의 전설,Habby,액션게임,3.21
+77,10.0,에픽세븐,Smilegate Megaport,롤플레잉게임,17.47
+78,,고스톱 PLUS (무료 맞고 게임),BuzzPowder,카지노게임,1.41
+79,-3.0,"XGOLF 엑스골프 - 골프부킹, 1인예약, 1박2일, 해외골프","GreenWorks Co.,Ltd.",골프,-0.63
+80,-3.0,Toy Blast - 토이 블라스트,Peak,퍼즐/퀴즈게임,0.06
+81,1.0,제2의 나라: CROSS WORLDS,Netmarble,롤플레잉게임,5.89
+82,-2.0,레알팜 : 진짜 농산물 주는 게임,NEOGAMES,시뮬레이션게임,0.35
+83,15.0,매직 타일 3,AMANOTES PTE LTD,리듬/타일게임,13.24
+84,,1945 공군: 슈팅 비행기게임 - 고전게임,ONESOFT,아케이드게임,0.37
+85,,드래곤 플라이트,LINE Games,아케이드게임,0.9
+86,3.0,Soul Knight,ChillyRoom,액션게임,7.04
+87,14.0,"말랑이 온라인 - 말랑이 거래, 말랑이 만들기",Whoyaho Corp.,시뮬레이션게임,9.99
+88,,상하이 애니팡,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.36
+89,0.0,하이 우동 호텔,DH-Publisher,,
+90,13.0,붕괴3rd,miHoYo Limited,액션게임,9.71
+91,,콜 오브 듀티: 모바일,PROXIMA BETA,액션게임,1.34
+92,1.0,"단어호감 - 워드 게임, 재미있는 퍼즐 게임",Kerun Games,퍼즐/퀴즈게임,1.47
+93,3.0,토킹톰 골드런,Outfit7 Limited,액션게임,3.33
+94,-11.0,월드 플리퍼,Kakao Games Corp.,액션게임,-9.4
+95,,달려라 티라노,PathBreaker,캐주얼게임,0.14
+96,1.0,eFootball PES 2021,KONAMI,스포츠게임,0.41
+97,-7.0,퍼즐 오브 Z,"BLANCOZONE NETWORK CO., LIMITED",롤플레잉게임,-3.48
+98,-6.0,물 퍼즐 정렬 - 색상 정렬 게임,Sonatgame,퍼즐/퀴즈게임,-3.38
+99,,스누피 틀린그림찾기,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.61
+100,-6.0,프린세스 커넥트! Re:Dive,Kakao Games Corp.,롤플레잉게임,-2.97
+101,-1.0,프렌즈사천성,Kakao Games Corp.,퍼즐/퀴즈게임,1.49
+102,-21.0,쿠키 조각가: 생존 챌린지,CASUAL AZUR GAMES,아케이드게임,-14.46
+103,-17.0,페이트/그랜드 오더,Netmarble,롤플레잉게임,-8.6
+104,,아이러브커피,NEXTURE Corporation,캐주얼게임,1.57
+105,4.0,3D운전교실,John 3:16,시뮬레이션게임,6.01
+106,1.0,피망 뉴맞고: 카카오맞고 대표 고스톱,NEOWIZ corp,카지노게임,4.45
+107,-2.0,고스톱 오리지널 : 대표 맞고 혼자 치는 화투게임,NEOWIZ corp,카지노게임,1.47
+108,22.0,바람의나라: 연,NEXON Company,롤플레잉게임,19.37
+109,-1.0,스와이프 벽돌깨기 - no.1 벽돌깨기 게임,Nine Games,아케이드게임,3.37
+110,3.0,Blockudoku - 블록 퍼즐 게임,Easybrain,퍼즐/퀴즈게임,8.66
+111,7.0,고양이와 스프,HIDEA,시뮬레이션게임,8.81
+112,-2.0,쿠키런 for Kakao,Devsisters Corporation,어드벤처게임,4.1
+113,7.0,동물의 숲 포켓 캠프,"Nintendo Co., Ltd.",시뮬레이션게임,8.61
+114,5.0,Identity V -제5인격,NetEase Games,롤플레잉게임,7.44
+115,-9.0,숨겨진 유산,Playrix,어드벤처게임,-2.28
+116,7.0,머지 스네이크(Merge Snake!),"Wuhan Weipai Network Technology Co., Ltd.",캐주얼게임,7.58
+117,0.0,달 개척자,VOODOO,,
+118,-7.0,블록 퍼즐 보석,hua weiwei,퍼즐/퀴즈게임,0.49
+119,-7.0,Nonogram.com(피크로스) - 픽처 크로스 퍼즐,Easybrain,퍼즐/퀴즈게임,0.7
+120,-57.0,아르미스,Netease Games Global,롤플레잉게임,-39.29
+121,0.0,전생슬 - 마왕과 용의 건국담,BANDAI NAMCO Entertainment Inc.,,
+122,-8.0,세븐나이츠,Netmarble,롤플레잉게임,1.09
+123,-8.0,Zepp,Huami Inc.,운동/피트니스,-0.41
+124,1.0,KBO STATS,"Sports2i Co., Ltd.",야구,3.56
+125,2.0,풋볼 마스터 2,GALA Sports,스포츠게임,3.99
+126,-4.0,에브리타운: 대한민국 600만 유저가 선택한 농장게임,FLERO Games,시뮬레이션게임,-0.81
+127,10.0,지오메트리 대시 라이트 (Geometry Dash L),RobTop Games,아케이드게임,8.74
+128,-4.0,엠파이어 & 퍼즐 (Empires & Puzzles),Small Giant Games,롤플레잉게임,-0.67
+129,-12.0,세븐나이츠2,Netmarble,롤플레잉게임,-3.56
+130,9.0,검은사막 모바일,PEARL ABYSS,롤플레잉게임,9.93
+131,-2.0,1010!,Zynga,퍼즐/퀴즈게임,3.24
+132,-6.0,AFK 아레나,LilithGames,롤플레잉게임,-0.5
+133,-17.0,스도쿠 - 클래식 스도쿠 퍼즐,Beetles Games Studio,퍼즐/퀴즈게임,-5.05
+134,-13.0,히어로즈 테일즈,37 Mobile Games,롤플레잉게임,-3.38
+135,-4.0,골프존카운티,골프존카운티,골프,1.59
+136,-2.0,애니팡 포커,PLAYLINKS Corp.,카지노게임,4.12
+137,-4.0,패밀리팜 어드벤처,Century Games Pte. Ltd.,시뮬레이션게임,0.47
+138,-6.0,Yu-Gi-Oh! Duel Links,KONAMI,카드게임,-1.89
+139,-3.0,모바일 레전드: Bang Bang,Moonton,슈팅게임,1.09
+140,-5.0,SortPuz: 물의 색깔 정렬 퍼즐 게임,JoyPuz,퍼즐/퀴즈게임,-3.69
+141,9.0,슈퍼펭귄 (Super Penguins),Supersolid,액션게임,9.11
+142,-1.0,라이즈 오브 킹덤즈,LilithGames,전략게임,1.08
+143,10.0,Woodoku,Tripledot Studios Limited,퍼즐/퀴즈게임,9.13
+144,7.0,"Brain Out: 넌센스 마스터, 두뇌 트레이닝",Focus apps,퍼즐/퀴즈게임,8.39
+145,-7.0,FIFA ONLINE 4 M by EA SPORTS™,NEXON Company,,-3.47
+146,3.0,A Dance Of Fire and Ice,7th Beat Games,리듬/타일게임,6.24
+147,12.0,의지의 히어로,ZPLAY Games,액션게임,9.78
+148,-4.0,FotMob - 축구 결과,FotMob AS,스포츠게임,1.72
+149,-7.0,타임 프린세스,IGG.COM,롤플레잉게임,-2.23
+150,-7.0,번호 색칠로 페인트 게임,Better Life - Color and Draw,캐주얼게임,-0.9
+151,0.0,오늘도 던전 : 방치형 RPG 키우기,CookApps,시뮬레이션게임,
+152,-6.0,백야극광,PROXIMA BETA,롤플레잉게임,-1.02
+153,7.0,바운스볼,RAON GAMES,퍼즐/퀴즈게임,5.41
+154,-2.0,원펀맨: 최강의 남자,GAMENOW TECHNOLOGY,롤플레잉게임,1.89
+155,-53.0,K-Games Challenge,Supercent,아케이드게임,-31.08
+156,19.0,Supreme Duelist Stickman,Nerons Brother,액션게임,16.48
+157,-1.0,プロジェクトセカイ カラフルステージ！ feat. 初音ミク,SEGA CORPORATION,리듬/타일게임,1.07
+158,4.0,Tiles Hop: EDM Rush!,AMANOTES PTE LTD,리듬/타일게임,3.92
+159,-1.0,마구마구 2021,Netmarble,스포츠게임,0.79
+160,-15.0,슬레이어 키우기,GEAR2,시뮬레이션게임,-6.72
+161,18.0,고양이 식탁,DH-Publisher,시뮬레이션게임,13.29
+162,-8.0,기적의 검,4399 KOREA,롤플레잉게임,-3.54
+163,-2.0,아이러브니키,Kakao Games Corp.,시뮬레이션게임,-1.28
+164,1.0,사활 마스터 (바둑),LR Studios,보드게임,1.67
+165,-10.0,사신키우기 온라인 : 1주년 이벤트중,DAERISOFT,시뮬레이션게임,-4.3
+166,,앵그리버드 드림 블라스트: 버블 퍼즐 팝핑 게임,Rovio Entertainment Corporation,퍼즐/퀴즈게임,1.19
+167,,캔디크러쉬 프렌즈 사가,King,캐주얼게임,0.9
+168,-5.0,나무 블록 퍼즐 - 클래식 블록 퍼즐 게임,Beetles Games Studio,퍼즐/퀴즈게임,-0.43
+169,1.0,놀러와 마이홈,Kakao Games Corp.,시뮬레이션게임,3.67
+170,-23.0,"모비 - 사전예약, 사전등록, 게임쿠폰",헝그리앱 Group,게임정보,-7.93
+171,-2.0,오목의 달인,SUD Inc.,보드게임,2.26
+172,-1.0,Geometry Dash,RobTop Games,아케이드게임,5.48
+173,-5.0,Hair Challenge,Rollic Games,액션게임,0.42
+174,10.0,텐텐 (TenTen),"AppteenPlanet Co.,Ltd",유머/재미,10.67
+175,-1.0,패밀리 아일랜드 - 농장모험게임,Melsoft Games Ltd,캐주얼게임,4.6
+176,6.0,일곱 개의 대죄: GRAND CROSS,Netmarble,롤플레잉게임,8.13
+177,20.0,고양이를 만나,BadMouse,캐주얼게임,15.6
+178,-30.0,창술사 키우기,DragonHeart,시뮬레이션게임,-13.56
+179,39.0,"김캐디 : 스크린골프, 골프레슨, 골프연습장 가격 비교",(주) 김캐디,골프,25.04
+180,-16.0,로드 모바일: 타워 디펜스,IGG.COM,전략게임,-7.14
+181,-8.0,피카 : 이달의 연애 시즌2,Plain Bagel Inc.,시뮬레이션게임,-1.17
+182,-42.0,Destiny Run,VOODOO,액션게임,-22.66
+183,-5.0,Tile Master,Higgs Studio,보드게임,0.7
+184,-7.0,Block Puzzle - 블럭 퍼즐,Block Puzzle Jewel Games,퍼즐/퀴즈게임,0.24
+185,-9.0,서머너즈 워: 천공의 아레나,Com2uS,롤플레잉게임,0.15
+186,14.0,U+골프 (모든 통신사 고객 이용 가능),LG유플러스(LG Uplus Corporation),골프,11.31
+187,-7.0,벽돌깨기 퀘스트,mobirix,아케이드게임,0.91
+188,-60.0,2048 Cube Winner—Aim To Win Diamond,flowerplasn,,-29.03
+189,-17.0,Match 3D - Matching Puzzle Game,Lion Studios,퍼즐/퀴즈게임,-3.44
+190,14.0,한국밈 피하기,REDNOSE GAMES,아케이드게임,10.29
+191,-6.0,Art of War: Legions,Fastone Games HK,전략게임,1.44
+192,1.0,리니지2M,NCSOFT,롤플레잉게임,5.23
+193,33.0,레이스 마스터 3D (Race Master 3D),SayGames Ltd,운전/레이싱게임,20.03
+194,8.0,플레이투게더,"HAEGIN Co., Ltd.",캐주얼게임,4.9
+195,-14.0,Two Dots,PlayDots,퍼즐/퀴즈게임,-4.4
+196,-5.0,애니팡 터치 - 트레저리그,SUNDAYTOZ Corp.,퍼즐/퀴즈게임,0.21
+197,-11.0,삼국지 전략판,Qookka Games,전략게임,-2.39
+198,-9.0,앵그리버드2,Rovio Entertainment Corporation,캐주얼게임,-0.86
+199,-5.0,솔리테어 팜 빌리지 - 클래식 카드놀이,Sticky Hands Inc.,카드게임,-0.23
+200,-4.0,오목,게임 스튜디오 모노몹,보드게임,0.43
