@@ -80,6 +80,46 @@
 38,39,(-9),파크라이 5,Ubisoft,액션
 39,40,(-19),디비니티: 오리지널 신 2,Larian Studios,롤플레잉
 0,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+1,2,(NEW),히트맨- GAME OF THE YEAR EDITION,Io-Interactive A/S,액션
+2,3,(-1),스타듀밸리,ConcernedApe,롤플레잉
+3,4,(-),GTA5,Rockstar Games,액션
+4,5,(-),원피스: 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+5,6,(+18),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+6,7,(-1),둠 이터널,Bethesda Softworks,액션
+7,8,(-1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+8,9,(NEW),휴먼: 폴 플랫,Curve Digital,퍼즐
+9,10,(-),NBA 2K20,2K,스포츠
+10,11,(-3),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+11,12,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+12,13,(+1),오리와 도깨비불,Xbox Game Studios,액션
+13,14,(NEW),랑그릿사 1 & 2,"NIS America, Inc.",롤플레잉
+14,15,(-6),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+15,16,(-3),언더테일,tobyfox,롤플레잉
+16,17,(-2),보더랜드 3,2K,롤플레잉
+17,18,(NEW),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+18,19,(-7),슈퍼 버니 맨,Catobyte Ltd,액션
+19,20,(-),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+20,21,(-5),파운데이션,Polymorph Games,전략
+21,22,(NEW),단간론파 1+2,"Spike Chunsoft Co., Ltd.",어드벤처
+22,23,(-6),문명 6,2K,전략
+23,24,(+8),둠,Bethesda Softworks,FPS
+24,25,(-7),더 포레스트,Endnight Games Ltd,서바이벌
+25,26,(-7),철권 7,BANDAI NAMCO Entertainment,액션
+26,27,(-4),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+27,28,(-6),러스트,Facepunch Studios,FPS
+28,29,(NEW),드래곤볼 Z 카카로트,BANDAI NAMCO Entertainment,액션
+29,30,(NEW),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+30,31,(-4),세키로: 섀도우 다이 트와이스,Activision (Excluding Japan and Asia),액션
+31,32,(-6),테라리아,Re-Logic,롤플레잉
+32,33,(-3),하프라이프: 알릭스,Valve,액션
+33,34,(-9),니어: 오토마타,Square Enix,액션
+34,35,(NEW),울센: 로드 오브 메이헴,WOLCEN Studio,롤플레잉
+35,36,(NEW),마운트 앤 블레이드: 워밴드,TaleWorlds Entertainment,롤플레잉
+36,37,(-16),하우스 플리퍼,Frozen District,시뮬레이션
+37,38,(-9),다크소울 3,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+38,39,(NEW),헤일로,Xbox Game Studios,액션
+39,40,(-7),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+0,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
 1,2,(-),히트맨 - GAME OF THE YEAR EDITION,Io-Interactive A/S,액션
 2,3,(-),스타듀밸리,ConcernedApe,롤플레잉
 3,4,(-),GTA5,Rockstar Games,액션
@@ -4839,3 +4879,43 @@
 37,38,(-1),문명6,2K,턴제 전략
 38,39,(-3),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
 39,40,(-1),V 라이징,Stunlock Studios,오픈월드 서바이벌
+0,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+3,4,(+1),어몽 어스,Innersloth,생존
+4,5,(+3),GTA 5,Rockstar Games,오픈월드 범죄 액션
+5,6,(-2),FIFA 22,Electronic Arts,스포츠
+6,7,(-1),파피 플레이타임,MOB Games,호러
+7,8,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+8,9,(-),몬스터 헌터 라이즈: 선브레이크,"CAPCOM Co., Ltd.",헌팅 액션
+9,10,(+22),스트레이,Annapurna Interactive,3인칭 고양이 어드벤처
+10,11,(-1),잇 테이크 투,Electronic Arts,액션
+11,12,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+12,13,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+13,14,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+14,15,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+15,16,(-1),DNF 듀얼,"NEOPLE Inc., NEXON Korea Corporation.",대전 액션
+16,17,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+17,18,(+2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+18,19,(-3),레디오어낫,VOID Interactive,FPS
+19,20,(+1),포르자 호라이즌 5,Xbox Game Studios,오픈 월드 레이싱
+20,21,(-7),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+21,22,(+2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,리듬
+22,23,(-4),뱀파이어 서바이버즈,poncle,액션 로그라이크
+23,24,(-1),더 포레스트,Endnight Games Ltd,서바이벌
+24,25,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+25,26,(NEW),열혈삼국지,Arc System Works,벨트스크롤 액션
+26,27,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+27,28,(-),하데스,Supergiant Games,액션
+28,29,(+1),철권 7,BANDAI NAMCO Entertainment,격투
+29,30,(-1),테라리아,Re-Logic,어드벤처
+30,31,(-5),소울워커,"Lion Games Co., Ltd.",액션 RPG
+31,32,(+1),콜 오브 듀티: 모던 워페어 2,Activision,FPS
+32,33,(-2),래프트,Square Enix,어드벤처
+33,34,(+1),크로우즈,썸에이지,FPS/TPS
+34,35,(-13),롱빈터,Uuvana Studios,오픈월드 샌드박스
+35,36,(+4),V 라이징,Stunlock Studios,오픈월드 서바이벌
+36,37,(-1),그랜드 체이스,KOG,RPG
+37,38,(-),문명6,2K,턴제 전략
+38,39,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+39,40,(-6),다잉 라이트 2: 스테이 휴먼,Techland,액션
