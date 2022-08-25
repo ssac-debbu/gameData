@@ -1,0 +1,2461 @@
+,week_num,rank,column-1 2,name,company,type
+0,0,1,,PLAYERUNKNOWN'S BATTLEGROUNDS,PUBG Corporation,FPS
+1,0,2,,Stardew Valley,ConcernedApe,롤플레잉
+2,0,3,,Grand Theft Auto V,Rockstar Games,액션
+3,0,4,,ONE PIECE: PIRATE WARRIORS 4,BANDAI NAMCO Entertainment,액션
+4,0,5,,DOOM Eternal,Bethesda Softworks,액션
+5,0,6,,ARK: Survival Evolved,Studio Wildcard,어드벤처
+6,0,7,,삼국지14,"KOEI TECMO GAMES CO., LTD.",전략
+7,0,8,,Red Dead Redemption 2,Rockstar Games,어드벤처
+8,0,9,,Ori and the Will of the Wisps,Xbox Game Studios,액션
+9,0,10,,Undertale,tobyfox,롤플레잉
+10,0,11,,The Forest,Endnight Games Ltd,액션
+11,0,12,,하우스 플리퍼,"Frozen District, PlayWay S.A.",시뮬레이션
+12,0,13,,Raft,Axolot Games,어드벤처
+13,0,14,,THE WITCHER 3: WILD HUNT - GAME OF THE YEAR EDITION,CD PROJEKT RED,롤플레잉
+14,0,15,,Monster Hunter World: Iceborne,"CAPCOM Co., Ltd.",액션
+15,0,16,,Terraria,Re-Logic,롤플레잉
+16,0,17,,Assassin's Creed® Syndicate,Ubisoft,액션
+17,0,18,,DARK SOULS™ III,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+18,0,19,,Dead by Daylight,Behaviour Digital Inc.,액션
+19,0,20,,썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+20,1,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+21,1,2,(-),스타듀밸리,ConcernedApe,롤플레잉
+22,1,3,(NEW),콜 오브 듀티 어드벤스드 워페어,2K,FPS
+23,1,4,(-1),GTA5,Rockstar Games,액션
+24,1,5,(-1),원피스: 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+25,1,6,(-1),둠 이터널,Bethesda Softworks,액션
+26,1,7,(NEW),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+27,1,8,(-1),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+28,1,9,(-3),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+29,1,9,(NEW),NBA 2K20,2K,스포츠
+30,1,11,(-3),레드 데드 리뎀션 2,Rockstar Games,액션
+31,1,12,(NEW),슈퍼 버니 맨,Catobyte Ltd,액션
+32,1,13,(-3),언더테일,tobyfox,롤플레잉
+33,1,14,(-5),오리와 도깨비불,Xbox Game Studios,액션
+34,1,15,(NEW),보더랜드 3,2K,롤플레잉
+35,1,16,(NEW),파운데이션,Polymorph Games,전략
+36,1,17,(NEW),문명 6,2K,전략
+37,1,18,(-6),더 포레스트,Endnight Games Ltd,서바이벌
+38,1,19,(-6),철권 7,BANDAI NAMCO Entertainment,액션
+39,1,20,(NEW),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+40,2,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+41,2,2,(NEW),히트맨- GAME OF THE YEAR EDITION,Io-Interactive A/S,액션
+42,2,3,(-1),스타듀밸리,ConcernedApe,롤플레잉
+43,2,4,(-),GTA5,Rockstar Games,액션
+44,2,5,(-),원피스: 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+45,2,6,(+18),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+46,2,7,(-1),둠 이터널,Bethesda Softworks,액션
+47,2,8,(-1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+48,2,9,(NEW),휴먼: 폴 플랫,Curve Digital,퍼즐
+49,2,10,(-),NBA 2K20,2K,스포츠
+50,2,11,(-3),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+51,2,12,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+52,2,13,(+1),오리와 도깨비불,Xbox Game Studios,액션
+53,2,14,(NEW),랑그릿사 1 & 2,"NIS America, Inc.",롤플레잉
+54,2,15,(-6),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+55,2,16,(-3),언더테일,tobyfox,롤플레잉
+56,2,17,(-2),보더랜드 3,2K,롤플레잉
+57,2,18,(NEW),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+58,2,19,(-7),슈퍼 버니 맨,Catobyte Ltd,액션
+59,2,20,(-),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+60,3,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+61,3,2,(-),히트맨 - GAME OF THE YEAR EDITION,Io-Interactive A/S,액션
+62,3,3,(-),스타듀밸리,ConcernedApe,롤플레잉
+63,3,4,(-),GTA5,Rockstar Games,액션
+64,3,5,(-),원피스: 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+65,3,6,(-),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+66,3,7,(-),둠 이터널,Bethesda Softworks,액션
+67,3,8,(-),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+68,3,9,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+69,3,10,(-),NBA 2K20,2K,스포츠
+70,3,11,(+7),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+71,3,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+72,3,13,(-2),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+73,3,14,(NEW),툼 레이더,Square Enix,액션
+74,3,15,(+2),보더랜드 3,2K,롤플레잉
+75,3,16,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+76,3,17,(+6),문명 6,2K,전략
+77,3,18,(+8),철권 7,BANDAI NAMCO Entertainment,액션
+78,3,19,(+8),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+79,3,20,(-7),오리와 도깨비불,Xbox Game Studios,액션
+80,4,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+81,4,2,(-),히트맨 - GAME OF THE YEAR EDITION,Io-Interactive A/S,액션
+82,4,3,(-),스타듀밸리,ConcernedApe,롤플레잉
+83,4,4,(-),GTA5,Rockstar Games,액션
+84,4,5,(-),원피스: 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+85,4,6,(NEW),콜 오브 듀티: 모던 워페어,Activision,액션
+86,4,7,(NEW),바이오하자드 RE:3,"CAPCOM Co., Ltd.",액션
+87,4,8,(+3),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+88,4,9,(-2),둠 이터널,Bethesda Softworks,액션
+89,4,10,(-),NBA 2K20,2K,스포츠
+90,4,11,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+91,4,12,(+2),툼 레이더,Square Enix,액션
+92,4,13,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+93,4,14,(-1),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+94,4,15,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+95,4,16,(NEW),카운터 스트라이크: 글로벌 오펜시브,Valve,액션
+96,4,17,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+97,4,18,(-1),문명 6,2K,전략
+98,4,19,(NEW),슈퍼 버니 맨,Catobyte Ltd,액션
+99,4,20,(+1),하프라이프: 알릭스,Valve,액션
+100,5,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+101,5,2,(+1),스타듀밸리,ConcernedApe,롤플레잉
+102,5,3,(+1),GTA5,Rockstar Games,액션
+103,5,4,(+20),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+104,5,5,(+2),바이오하자드 RE:3,"CAPCOM Co., Ltd.",액션
+105,5,6,(+5),휴먼: 폴 플랫,Curve Digital,퍼즐
+106,5,7,(+3),NBA 2K20,2K,스포츠
+107,5,8,(+4),툼 레이더,Square Enix,액션
+108,5,9,(+4),레드 데드 리뎀션 2,Rockstar Games,액션
+109,5,10,(NEW),파이널 판타지 7,Square Enix,롤플레잉
+110,5,11,(-2),둠 이터널,Bethesda Softworks,액션
+111,5,12,(+2),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+112,5,13,(NEW),언더테일,tobyfox,롤플레잉
+113,5,14,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+114,5,15,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+115,5,16,(+2),문명 6,2K,전략
+116,5,17,(+4),테라리아,Re-Logic,롤플레잉
+117,5,18,(+4),보더랜드 3,2K,롤플레잉
+118,5,19,(+8),더 포레스트,Endnight Games Ltd,서바이벌
+119,5,20,(NEW),성검전설3 TRIALS of MANA,Square Enix,롤플레잉
+120,6,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+121,6,2,(-),스타듀밸리,ConcernedApe,롤플레잉
+122,6,3,(-),GTA5,Rockstar Games,액션
+123,6,4,(-),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+124,6,5,(NEW),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+125,6,6,(NEW),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+126,6,7,(NEW),노베나 디아볼로스,H5DEV Games,인디
+127,6,8,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+128,6,9,(+3),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+129,6,10,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+130,6,11,(NEW),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+131,6,12,(+3),철권 7,BANDAI NAMCO Entertainment,액션
+132,6,13,(+3),문명 6,2K,전략
+133,6,14,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+134,6,15,(-4),둠 이터널,Bethesda Softworks,액션
+135,6,16,(NEW),다크소울 3,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+136,6,17,(+19),레지던트 이블 2 / 바이오 하자드 RE:2,"CAPCOM Co., Ltd.",액션
+137,6,18,(NEW),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+138,6,19,(-2),테라리아,Re-Logic,롤플레잉
+139,6,20,(-),성검전설3 TRIALS of MANA,Square Enix,롤플레잉
+140,7,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+141,7,2,(+1),GTA 5,Rockstar Games,액션
+142,7,3,(-1),스타듀밸리,ConcernedApe,롤플레잉
+143,7,4,(NEW),콜 오브 듀티: 모던 워페어 리마스터,Activision,액션
+144,7,5,(-),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+145,7,6,(+1),노베나 디아볼로스,H5DEV Games,인디
+146,7,7,(-1),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+147,7,8,(+2),레드 데드 리뎀션 2,Rockstar Games,액션
+148,7,9,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+149,7,10,(NEW),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+150,7,11,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+151,7,12,(+9),베어 너클 4,Dotemu,액션
+152,7,13,(-),문명 6,2K,전략
+153,7,14,(+2),다크 소울 3,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+154,7,15,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+155,7,16,(-1),둠 이터널,Bethesda Softworks,액션
+156,7,17,(+2),테라리아,Re-Logic,롤플레잉
+157,7,18,(NEW),세키로: 섀도우 다이 트와이스,Activision (Excluding Japan and Asia),액션
+158,7,19,(+3),드래곤볼 Z 카카로트,BANDAI NAMCO Entertainment,액션
+159,7,20,(NEW),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+160,8,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+161,8,2,(-),GTA 5,Rockstar Games,액션
+162,8,3,(-),스타듀밸리,ConcernedApe,롤플레잉
+163,8,4,(+18),몬스터 헌터: 월드,"CAPCOM Co., Ltd.",액션
+164,8,5,(+1),노베나 디아볼로스,H5DEV Games,인디
+165,8,6,(-2),콜 오브 듀티: 모던 워페어 리마스터,Activision,액션
+166,8,7,(NEW),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+167,8,8,(NEW),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+168,8,9,(NEW),NBA 2K20,2K,스포츠
+169,8,10,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+170,8,11,(-1),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+171,8,12,(-3),휴먼: 폴 플랫,Curve Digital,퍼즐
+172,8,13,(NEW),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+173,8,14,(-),다크 소울 3,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+174,8,15,(-2),문명 6,2K,전략
+175,8,16,(NEW),성검전설3 TRIALS of MANA,Square Enix,롤플레잉
+176,8,17,(NEW),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+177,8,18,(-1),테라리아,Re-Logic,롤플레잉
+178,8,19,(-4),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+179,8,20,(-),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+180,9,1,(+1),GTA 5,Rockstar Games,액션
+181,9,2,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+182,9,3,(+12),문명 6,2K,전략
+183,9,4,(-1),스타듀밸리,ConcernedApe,롤플레잉
+184,9,5,(-),노베나 디아볼로스,H5DEV Games,인디
+185,9,6,(-2),몬스터 헌터: 월드,"CAPCOM Co., Ltd.",액션
+186,9,7,(+4),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+187,9,8,(+1),NBA 2K20,2K,스포츠
+188,9,9,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+189,9,10,(-2),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+190,9,11,(+11),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+191,9,12,(+1),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+192,9,13,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+193,9,14,(+4),테라리아,Re-Logic,롤플레잉
+194,9,15,(NEW),철권 7,BANDAI NAMCO Entertainment,액션
+195,9,16,(+1),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+196,9,17,(+3),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+197,9,18,(NEW),데스티니: 가디언즈,Bungie,액션
+198,9,19,(NEW),둠 이터널,Bethesda Softworks,액션
+199,9,20,(NEW),보더랜드 3,2K,롤플레잉
+200,10,1,(-),GTA 5,Rockstar Games,액션
+201,10,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+202,10,3,(-),문명 6,2K,전략
+203,10,4,(-),스타듀밸리,ConcernedApe,롤플레잉
+204,10,5,(+1),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+205,10,6,(+1),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+206,10,7,(-2),노베나 디아볼로스,H5DEV Games,인디
+207,10,8,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+208,10,9,(+5),테라리아,Re-Logic,롤플레잉
+209,10,10,(+2),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+210,10,11,(NEW),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+211,10,12,(+4),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+212,10,13,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+213,10,14,(NEW),헬테이커,vanripper,인디
+214,10,15,(-4),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+215,10,16,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+216,10,17,(NEW),더 위쳐 3: 와일드 헌트,CD PROJEKT RED,롤플레잉
+217,10,18,(NEW),카운터 스트라이크: 글로벌 오펜시브,Valve,슈팅
+218,10,19,(+3),더 포레스트,Endnight Games Ltd,서바이벌
+219,10,20,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+220,11,1,(-),GTA 5,Rockstar Games,액션
+221,11,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+222,11,3,(-),문명 6,2K,전략
+223,11,4,(-),스타듀밸리,ConcernedApe,롤플레잉
+224,11,5,(+1),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+225,11,6,(+3),테라리아,Re-Logic,롤플레잉
+226,11,7,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+227,11,8,(NEW),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+228,11,9,(+1),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+229,11,10,(+3),휴먼: 폴 플랫,Curve Digital,퍼즐
+230,11,11,(-),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+231,11,12,(+4),철권 7,BANDAI NAMCO Entertainment,액션
+232,11,13,(+2),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+233,11,14,(+5),더 포레스트,Endnight Games Ltd,서바이벌
+234,11,15,(+6),로보토미 코퍼레이션,ProjectMoon,인디
+235,11,16,(NEW),킹덤 컴 : 딜리버랜스,Warhorse Studios,액션
+236,11,17,(NEW),바이오하자드 RE:3,"CAPCOM Co., Ltd.",액션
+237,11,18,(NEW),슈퍼 버니 맨,Catobyte Ltd,액션
+238,11,19,(NEW),림월드,Ludeon Studios,전략
+239,11,20,(+6),폴아웃 4,Bethesda Softworks,롤플레잉
+240,12,1,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+241,12,2,(+1),문명 6,2K,전략
+242,12,3,(-1),GTA 5,Rockstar Games,액션
+243,12,4,(-),스타듀밸리,ConcernedApe,롤플레잉
+244,12,5,(NEW),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+245,12,6,(NEW),몬스터 헌터: 월드,"CAPCOM Co., Ltd.",액션
+246,12,7,(-1),테라리아,Re-Logic,롤플레잉
+247,12,8,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+248,12,9,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+249,12,10,(-1),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+250,12,11,(NEW),NBA 2K20,2K,스포츠
+251,12,12,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+252,12,13,(NEW),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+253,12,14,(-9),썸썸 편의점,"TALESSHOP Co., Ltd.",어드벤처
+254,12,15,(NEW),보더랜드 3,2K,롤플레잉
+255,12,16,(-5),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+256,12,17,(-4),마운트 앤 블레이드 2: 배너로드,TaleWorlds Entertainment,전략
+257,12,18,(NEW),데스 스트랜딩,505 Games,액션
+258,12,19,(NEW),다크 소울 3,"FromSoftware, Inc., BANDAI NAMCO Entertainment",롤플레잉
+259,12,20,(-5),로보토미 코퍼레이션,ProjectMoon,인디
+260,13,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+261,13,2,(-),문명 6,2K,전략
+262,13,3,(-),GTA 5,Rockstar Games,액션
+263,13,4,(+1),아크: 서바이벌 이볼브드,ConcernedApe,어드벤처
+264,13,5,(-1),스타듀밸리,ConcernedApe,롤플레잉
+265,13,6,(-),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+266,13,7,(NEW),더 심즈 4,Electronic Arts,캐주얼
+267,13,8,(+2),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+268,13,9,(NEW),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+269,13,10,(-2),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+270,13,11,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+271,13,12,(-5),테라리아,Re-Logic,롤플레잉
+272,13,13,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+273,13,14,(-1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+274,13,15,(NEW),킹덤 컴 : 딜리버랜스,Warhorse Studios,액션
+275,13,16,(NEW),디트로이트: 비컴 휴먼,Quantic Dream,액션
+276,13,17,(NEW),철권 7,BANDAI NAMCO Entertainment,액션
+277,13,18,(-3),보더랜드 3,2K,롤플레잉
+278,13,19,(NEW),데스페라도스 3,THQ Nordic,전략
+279,13,20,(-4),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+280,14,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+281,14,2,(+1),GTA 5,Rockstar Games,액션
+282,14,3,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+283,14,4,(+4),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+284,14,5,(-),스타듀밸리,ConcernedApe,롤플레잉
+285,14,6,(-4),문명 6,2K,전략
+286,14,7,(+20),어몽 어스,Innersloth,캐주얼
+287,14,8,(-2),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+288,14,9,(+12),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+289,14,10,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+290,14,11,(-2),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+291,14,12,(NEW),언더테일,tobyfox,롤플레잉
+292,14,13,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+293,14,14,(+2),디트로이트: 비컴 휴먼,Quantic Dream,액션
+294,14,15,(-3),테라리아,Re-Logic,롤플레잉
+295,14,16,(-3),휴먼: 폴 플랫,Curve Digital,퍼즐
+296,14,17,(-3),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+297,14,18,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+298,14,19,(NEW),단간론파: 희망의 학원과 절망의 고교생,"Spike Chunsoft Co., Ltd.",어드벤처
+299,14,20,(NEW),NBA 2K20,2K,스포츠
+300,15,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+301,15,2,(-),GTA 5,Rockstar Games,액션
+302,15,3,(+1),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+303,15,4,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+304,15,5,(-),스타듀밸리,ConcernedApe,전원 생활 시뮬레이션
+305,15,6,(+1),어몽 어스,Innersloth,전략
+306,15,7,(+1),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+307,15,8,(-2),문명 6,2K,턴제 전략
+308,15,9,(+2),어쌔신크리드 오딧세이,Ubisoft,오픈월드 액션
+309,15,10,(+3),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+310,15,11,(+3),디트로이트: 비컴 휴먼,Quantic Dream,액션
+311,15,12,(+4),휴먼: 폴 플랫,Curve Digital,퍼즐
+312,15,13,(-2),데스페라도스 3,THQ Nordic,전략
+313,15,14,(NEW),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",액션
+314,15,15,(-),테라리아,Re-Logic,롤플레잉
+315,15,16,(-7),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+316,15,17,(+2),단간론파: 희망의 학원과 절망의 고교생,"Spike Chunsoft Co., Ltd.",어드벤처
+317,15,18,(-),철권 7,BANDAI NAMCO Entertainment,액션
+318,15,19,(NEW),데스 스트랜딩,505 Games,액션
+319,15,20,(+2),더 포레스트,Endnight Games Ltd,서바이벌
+320,16,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+321,16,2,(-),GTA 5,Rockstar Games,액션
+322,16,3,(-),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+323,16,4,(+2),어몽 어스,ConcernedApe,캐주얼
+324,16,5,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+325,16,6,(-1),스타듀밸리,ConcernedApe,롤플레잉
+326,16,7,(-),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+327,16,8,(NEW),더 심즈 4,Electronic Arts,캐주얼
+328,16,9,(+3),휴먼: 폴 플랫,Curve Digital,퍼즐
+329,16,10,(+1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+330,16,11,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+331,16,12,(NEW),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+332,16,13,(+1),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",액션
+333,16,14,(+2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+334,16,15,(-),테라리아,Re-Logic,롤플레잉
+335,16,16,(NEW),NBA 2K20,2K,스포츠
+336,16,17,(+2),데스 스트랜딩,505 Games,액션
+337,16,18,(-),철권 7,BANDAI NAMCO Entertainment,액션
+338,16,19,(NEW),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+339,16,20,(-),더 포레스트,Endnight Games Ltd,서바이벌
+340,17,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+341,17,2,(-),GTA 5,Rockstar Games,액션
+342,17,3,(-),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+343,17,4,(+2),스타듀밸리,ConcernedApe,롤플레잉
+344,17,5,(+2),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+345,17,6,(NEW),갱비스트,Double Fine Presents,액션
+346,17,7,(+1),더 심즈 4,Electronic Arts,캐주얼
+347,17,8,(NEW),페어리 테일,"KOEI TECMO GAMES CO., LTD.",액션
+348,17,9,(NEW),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+349,17,10,(+7),데스 스트랜딩,505 Games,액션
+350,17,11,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+351,17,12,(NEW),언더테일,tobyfox,롤플레잉
+352,17,13,(-3),디트로이트: 비컴 휴먼,Quantic Dream,액션
+353,17,14,(-3),레드 데드 리뎀션 2,Rockstar Games,액션
+354,17,15,(NEW),문명 6,2K,전략
+355,17,16,(-3),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",액션
+356,17,17,(NEW),헌터스 아레나: 레전드,Mantisco,액션
+357,17,18,(+1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+358,17,19,(+1),더 포레스트,Endnight Games Ltd,서바이벌
+359,17,20,(NEW),데스페라도스 3,THQ Nordic,전략
+360,18,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,FPS
+361,18,2,(NEW),어몽 어스,Innersloth,캐주얼
+362,18,3,(-1),GTA 5,Rockstar Games,액션
+363,18,4,(-),스타듀밸리,ConcernedApe,롤플레잉
+364,18,5,(-2),사이버펑크 2077,CD PROJEKT RED,롤플레잉
+365,18,6,(-),갱비스트,Double Fine Presents,액션
+366,18,7,(-2),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+367,18,8,(NEW),콜 오브 듀티 : 블랙 옵스 3,"Activision, Aspyr (Mac)",액션
+368,18,9,(-2),더 심즈 4,Electronic Arts,캐주얼
+369,18,10,(-),데스 스트랜딩,505 Games,액션
+370,18,11,(-2),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+371,18,12,(NEW),옥토패스 트래블러,Square Enix,롤플레잉
+372,18,13,(+2),문명 6,2K,전략
+373,18,14,(+3),헌터스 아레나: 레전드,Mantisco,액션
+374,18,15,(+1),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",액션
+375,18,16,(-3),디트로이트: 비컴 휴먼,Quantic Dream,액션
+376,18,17,(+1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+377,18,18,(+3),세키로: 섀도우 다이 트와이스,Activision (Excluding Japan and Asia),액션
+378,18,19,(+3),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+379,18,20,(NEW),라이즈 오브 더 툼 레이더,Square Enix,액션
+380,19,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+381,19,2,(-),어몽 어스,Innersloth,전략
+382,19,3,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+383,19,4,(-),스타듀밸리,ConcernedApe,전원 생활 시뮬레이션
+384,19,5,(+4),더 심즈 4,Electronic Arts,시뮬레이션
+385,19,6,(NEW),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+386,19,7,(+3),데스 스트랜딩,505 Games,액션
+387,19,8,(+3),어쌔신크리드 오딧세이,Ubisoft,오픈월드 액션
+388,19,9,(NEW),휴먼: 폴 플랫,Curve Digital,퍼즐
+389,19,10,(NEW),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+390,19,11,(NEW),레드 데드 리뎀션 2,Rockstar Games,액션
+391,19,12,(+1),문명 6,2K,전략
+392,19,13,(NEW),테라리아,Re-Logic,롤플레잉
+393,19,14,(+1),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",액션
+394,19,15,(+1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+395,19,16,(+1),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+396,19,17,(NEW),더 포레스트,Endnight Games Ltd,서바이벌
+397,19,18,(-11),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+398,19,19,(+7),건파이어 리본,Duoyi (Hong Kong) Interactive Entertainment Limited,액션
+399,19,20,(NEW),원피스 해적무쌍 4,BANDAI NAMCO Entertainment,액션
+400,20,1,(+1),어몽 어스,Innersloth,전략
+401,20,2,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+402,20,3,(+21),폴가이즈,Devolver Digital,어드벤처
+403,20,4,(-1),GTA 5,ConcernedApe,오픈월드 범죄 액션
+404,20,5,(-1),스타듀밸리,ConcernedApe,전원 생활 시뮬레이션
+405,20,6,(+12),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+406,20,7,(NEW),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+407,20,8,(+6),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+408,20,9,(-2),데스 스트랜딩,505 Games,액션
+409,20,10,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+410,20,11,(-1),삼국지 14,"KOEI TECMO GAMES CO., LTD.",전략
+411,20,12,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+412,20,13,(-1),문명 6,2K,전략
+413,20,14,(-1),테라리아,Re-Logic,롤플레잉
+414,20,15,(+8),씨 오브 시브즈,Xbox Game Studios,액션
+415,20,16,(-10),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+416,20,17,(+2),건파이어 리본,Duoyi (Hong Kong) Interactive Entertainment Limited,액션
+417,20,18,(-2),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+418,20,19,(-4),디트로이트: 비컴 휴먼,Quantic Dream,액션
+419,20,20,(-3),더 포레스트,Endnight Games Ltd,서바이벌
+420,21,1,(-),어몽 어스,Innersloth,캐주얼
+421,21,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+422,21,3,(-),폴가이즈,Devolver Digital,어드벤처
+423,21,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+424,21,5,(-),스타듀밸리,ConcernedApe,전원 생활 시뮬레이션
+425,21,6,(+2),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+426,21,7,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+427,21,8,(+2),휴먼: 폴 플랫,Curve Digital,퍼즐
+428,21,9,(NEW),옥토패스 트래블러,Square Enix,롤플레잉
+429,21,10,(+1),삼국지14,"KOEI TECMO GAMES CO., LTD.",전략
+430,21,11,(+4),씨 오브 시브즈,Xbox Game Studios,액션
+431,21,12,(NEW),갱비스트,Double Fine Presents,액션
+432,21,13,(-),문명 6,2K,전략
+433,21,14,(-),테라리아,Re-Logic,롤플레잉
+434,21,15,(+2),건파이어 리본,Duoyi (Hong Kong) Interactive Entertainment Limited,액션
+435,21,16,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+436,21,17,(+3),더 포레스트,Endnight Games Ltd,서바이벌
+437,21,18,(+4),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+438,21,19,(NEW),슈퍼 버니 맨,Catobyte Ltd,액션
+439,21,20,(-14),몬스터 헌터 월드: 아이스본,"CAPCOM Co., Ltd.",액션
+440,22,1,(-),어몽 어스,Innersloth,전략
+441,22,2,(+1),폴가이즈,Devolver Digital,어드벤처
+442,22,3,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+443,22,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+444,22,5,(-),스타듀밸리,ConcernedApe,전원 생활 시뮬레이션
+445,22,6,(NEW),피파 21,Electronic Arts,스포츠
+446,22,7,(-1),호라이즌 제로 던 : 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+447,22,8,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+448,22,9,(+2),씨 오브 시브즈,Xbox Game Studios,어드벤처
+449,22,10,(-3),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+450,22,11,(-1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+451,22,12,(NEW),어쌔신크리드 오딧세이,Ubisoft,롤플레잉
+452,22,13,(-),문명 6,2K,전략
+453,22,14,(-),테라리아,Re-Logic,롤플레잉
+454,22,15,(-),건파이어 리본,Duoyi (Hong Kong) Interactive Entertainment Limited,액션
+455,22,16,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+456,22,17,(NEW),톰 클랜시 레인보우 식스 시즈,Ubisoft,FPS
+457,22,18,(NEW),디트로이트: 비컴 휴먼,Quantic Dream,액션
+458,22,19,(NEW),NBA 2K20,2K,스포츠
+459,22,20,(-3),더 포레스트,Endnight Games Ltd,서바이벌
+460,23,1,(-),어몽 어스,Innersloth,전략
+461,23,2,(-),폴가이즈,Devolver Digital,어드벤처
+462,23,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+463,23,4,(-),GTA 5,Rockstar Games,액션
+464,23,5,(+4),씨 오브 시브즈,Xbox Game Studios,어드벤처
+465,23,6,(-),피파 21,Electronic Arts,스포츠
+466,23,7,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+467,23,8,(NEW),더 심즈 4,Electronic Arts,시뮬레이션
+468,23,9,(-2),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+469,23,10,(-5),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+470,23,11,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+471,23,12,(+23),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+472,23,13,(-2),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+473,23,14,(-2),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+474,23,15,(NEW),레드 데드 리뎀션 2,Rockstar Games,액션
+475,23,16,(-2),테라리아,Re-Logic,롤플레잉
+476,23,17,(-4),문명6,2K,전략
+477,23,18,(-1),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+478,23,19,(-3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+479,23,20,(NEW),NBA 2K21,2K,스포츠
+480,24,1,(-),어몽 어스,Innersloth,전략
+481,24,2,(-),폴가이즈,Devolver Digital,어드벤처
+482,24,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+483,24,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+484,24,5,(+14),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+485,24,6,(+4),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+486,24,7,(-1),피파 21,Electronic Arts,스포츠
+487,24,8,(-3),씨 오브 시브즈,Xbox Game Studios,어드벤처
+488,24,9,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+489,24,10,(NEW),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+490,24,11,(-3),더 심즈 4,Electronic Arts,시뮬레이션
+491,24,12,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+492,24,13,(-4),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+493,24,14,(+6),NBA 2K21,2K,스포츠
+494,24,15,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+495,24,16,(-4),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+496,24,17,(-1),테라리아,Re-Logic,롤플레잉
+497,24,18,(-1),문명6,2K,전략
+498,24,19,(-5),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+499,24,20,(-7),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+500,25,1,(-),어몽 어스,Innersloth,전략
+501,25,2,(-),폴가이즈,Devolver Digital,어드벤처
+502,25,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+503,25,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+504,25,5,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+505,25,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+506,25,7,(-),피파 21,Electronic Arts,스포츠
+507,25,8,(+2),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+508,25,9,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+509,25,10,(+4),NBA 2K21,2K,스포츠
+510,25,11,(-3),씨 오브 시브즈,Xbox Game Studios,어드벤처
+511,25,12,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+512,25,13,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+513,25,14,(NEW),팩토리오,Wube Software LTD.,전략
+514,25,15,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+515,25,16,(+7),철권 7,BANDAI NAMCO Entertainment,액션
+516,25,17,(-4),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+517,25,18,(-),문명6,2K,전략
+518,25,19,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+519,25,20,(-3),테라리아,Re-Logic,롤플레잉
+520,26,1,(-),어몽 어스,Innersloth,전략
+521,26,2,(-),폴가이즈,Devolver Digital,어드벤처
+522,26,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+523,26,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+524,26,5,(+2),피파 21,Electronic Arts,스포츠
+525,26,6,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+526,26,7,(+1),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+527,26,8,(-2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+528,26,9,(+1),NBA 2K21,2K,스포츠
+529,26,10,(+3),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+530,26,11,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+531,26,12,(-),더 심즈 4,Electronic Arts,시뮬레이션
+532,26,13,(+2),레드 데드 리뎀션 2,Rockstar Games,액션
+533,26,14,(-3),씨 오브 시브즈,Xbox Game Studios,어드벤처
+534,26,15,(+6),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+535,26,16,(-),철권 7,BANDAI NAMCO Entertainment,액션
+536,26,17,(+2),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+537,26,18,(-1),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+538,26,19,(-1),문명6,2K,전략
+539,26,20,(-),테라리아,Re-Logic,롤플레잉
+540,27,1,(-),어몽 어스,Innersloth,전략
+541,27,2,(-),폴가이즈,Devolver Digital,어드벤처
+542,27,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+543,27,4,(+1),피파 21,Electronic Arts,스포츠
+544,27,5,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+545,27,6,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+546,27,7,(-),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+547,27,8,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+548,27,9,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+549,27,10,(-1),NBA 2K21,2K,스포츠
+550,27,11,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+551,27,12,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+552,27,13,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+553,27,14,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+554,27,15,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+555,27,16,(-2),씨 오브 시브즈,Xbox Game Studios,어드벤처
+556,27,17,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+557,27,18,(+1),문명6,2K,전략
+558,27,19,(+4),풋볼 매니저 2020,SEGA,시뮬레이션
+559,27,20,(-2),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+560,28,1,(-),어몽 어스,Innersloth,전략
+561,28,2,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+562,28,3,(-1),폴가이즈,Devolver Digital,어드벤처
+563,28,4,(-),피파 21,Electronic Arts,스포츠
+564,28,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+565,28,6,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+566,28,7,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+567,28,8,(-1),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+568,28,9,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+569,28,10,(+2),레드 데드 리뎀션 2,Rockstar Games,액션
+570,28,11,(-),더 심즈 4,Electronic Arts,시뮬레이션
+571,28,12,(-2),NBA 2K21,2K,스포츠
+572,28,13,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+573,28,14,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+574,28,15,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+575,28,16,(+1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+576,28,17,(+1),문명6,2K,전략
+577,28,18,(+1),풋볼 매니저 2020,SEGA,시뮬레이션
+578,28,19,(-3),씨 오브 시브즈,Xbox Game Studios,어드벤처
+579,28,20,(-),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+580,29,1,(-),어몽 어스,Innersloth,전략
+581,29,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+582,29,3,(+1),피파 21,Electronic Arts,스포츠
+583,29,4,(-1),폴가이즈,Devolver Digital,어드벤처
+584,29,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+585,29,6,(+3),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+586,29,7,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+587,29,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+588,29,9,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+589,29,10,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+590,29,11,(+4),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+591,29,12,(-4),크루세이더 킹즈 3,Paradox Interactive,전략 시뮬레이션
+592,29,13,(+3),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+593,29,14,(+7),하데스,Supergiant Games,액션
+594,29,15,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+595,29,16,(+2),풋볼 매니저 2020,SEGA,시뮬레이션
+596,29,17,(-),문명6,2K,전략
+597,29,18,(+4),나이트 오브 더 데드,jacktostudios,어드벤처
+598,29,19,(-6),철권 7,BANDAI NAMCO Entertainment,액션
+599,29,20,(-8),NBA 2K21,2K,스포츠
+600,30,1,(-),어몽 어스,Innersloth,전략
+601,30,2,(+1),피파 21,Electronic Arts,스포츠
+602,30,3,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+603,30,4,(+2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+604,30,5,(-1),폴가이즈,Devolver Digital,어드벤처
+605,30,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+606,30,7,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+607,30,8,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+608,30,9,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+609,30,10,(+3),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+610,30,11,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+611,30,12,(+3),휴먼: 폴 플랫,Curve Digital,퍼즐
+612,30,13,(-4),레드 데드 리뎀션 2,Rockstar Games,액션
+613,30,14,(+8),래프트,Square Enix,어드벤처
+614,30,15,(-1),하데스,Supergiant Games,액션
+615,30,16,(+7),디트로이트: 비컴 휴먼,Quantic Dream,액션
+616,30,17,(-),문명6,2K,전략
+617,30,18,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+618,30,19,(-1),나이트 오브 더 데드,jacktostudios,어드벤처
+619,30,20,(-),NBA 2K21,2K,스포츠
+620,31,1,(-),어몽 어스,Innersloth,전략
+621,31,2,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+622,31,3,(-1),피파 21,Electronic Arts,스포츠
+623,31,4,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+624,31,5,(-),폴가이즈,Devolver Digital,어드벤처
+625,31,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+626,31,7,(NEW),인 사일런스,Ravenhood Games,공포
+627,31,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+628,31,9,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+629,31,10,(+3),레드 데드 리뎀션 2,Rockstar Games,액션
+630,31,11,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+631,31,12,(-2),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+632,31,13,(+1),래프트,Square Enix,어드벤처
+633,31,14,(-3),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+634,31,15,(+1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+635,31,16,(-4),휴먼: 폴 플랫,Curve Digital,퍼즐
+636,31,17,(+14),파스모포비아,Kinetic Games,공포
+637,31,18,(-1),문명6,2K,전략
+638,31,19,(-4),하데스,Supergiant Games,액션
+639,31,20,(-2),철권 7,BANDAI NAMCO Entertainment,액션
+640,32,1,(-),어몽 어스,Innersloth,전략
+641,32,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+642,32,3,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+643,32,4,(-1),피파 21,Electronic Arts,스포츠
+644,32,5,(-),폴가이즈,Devolver Digital,어드벤처
+645,32,6,(+1),인 사일런스,Ravenhood Games,공포
+646,32,7,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+647,32,8,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+648,32,9,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+649,32,10,(NEW),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+650,32,11,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+651,32,12,(+5),파스모포비아,Kinetic Games,공포
+652,32,13,(-),래프트,Square Enix,어드벤처
+653,32,14,(-3),더 심즈 4,Electronic Arts,시뮬레이션
+654,32,15,(-3),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+655,32,16,(-1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+656,32,17,(-3),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+657,32,18,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+658,32,19,(-),하데스,Supergiant Games,액션
+659,32,20,(-),철권 7,BANDAI NAMCO Entertainment,액션
+660,33,1,(-),어몽 어스,Innersloth,전략
+661,33,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+662,33,3,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+663,33,4,(-),피파 21,Electronic Arts,스포츠
+664,33,5,(+1),인 사일런스,Ravenhood Games,공포
+665,33,6,(+4),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+666,33,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+667,33,8,(-3),폴가이즈,Devolver Digital,어드벤처
+668,33,9,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+669,33,10,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+670,33,11,(+1),파스모포비아,Kinetic Games,공포
+671,33,12,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+672,33,13,(-),래프트,Square Enix,어드벤처
+673,33,14,(-),더 심즈 4,Electronic Arts,시뮬레이션
+674,33,15,(+1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+675,33,16,(-1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+676,33,17,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+677,33,18,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+678,33,19,(-),하데스,Supergiant Games,액션
+679,33,20,(+1),문명6,2K,전략
+680,34,1,(-),어몽 어스,Innersloth,전략
+681,34,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+682,34,3,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+683,34,4,(+2),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+684,34,5,(-1),피파 21,Electronic Arts,스포츠
+685,34,6,(-1),인 사일런스,Ravenhood Games,공포
+686,34,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+687,34,8,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+688,34,9,(-1),폴가이즈,Devolver Digital,어드벤처
+689,34,10,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+690,34,11,(-),파스모포비아,Kinetic Games,공포
+691,34,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+692,34,13,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+693,34,14,(+1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+694,34,15,(+1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+695,34,16,(-3),래프트,Square Enix,어드벤처
+696,34,17,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+697,34,18,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+698,34,19,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+699,34,20,(-),문명6,2K,전략
+700,35,1,(-),어몽 어스,Innersloth,전략
+701,35,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+702,35,3,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+703,35,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+704,35,5,(NEW),천수의 사쿠나히메,XSEED Games,시뮬레이션
+705,35,6,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+706,35,7,(-2),피파 21,Electronic Arts,스포츠
+707,35,8,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+708,35,9,(-),폴가이즈,Devolver Digital,어드벤처
+709,35,10,(+1),파스모포비아,Kinetic Games,공포
+710,35,11,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+711,35,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+712,35,13,(-),더 심즈 4,Electronic Arts,시뮬레이션
+713,35,14,(-8),인 사일런스,Ravenhood Games,공포
+714,35,15,(-1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+715,35,16,(-),래프트,Square Enix,어드벤처
+716,35,17,(-2),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+717,35,18,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+718,35,19,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+719,35,20,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+720,36,1,(-),어몽 어스,Innersloth,전략
+721,36,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+722,36,3,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+723,36,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+724,36,5,(-),천수의 사쿠나히메,XSEED Games,시뮬레이션
+725,36,6,(+8),인 사일런스,Ravenhood Games,공포
+726,36,7,(-),피파 21,Electronic Arts,스포츠
+727,36,8,(-2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+728,36,9,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+729,36,10,(-1),폴가이즈,Devolver Digital,어드벤처
+730,36,11,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+731,36,12,(-2),파스모포비아,Kinetic Games,공포
+732,36,13,(-),더 심즈 4,Electronic Arts,시뮬레이션
+733,36,14,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+734,36,15,(+1),래프트,Square Enix,어드벤처
+735,36,16,(+1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+736,36,17,(-2),디트로이트: 비컴 휴먼,Quantic Dream,액션
+737,36,18,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+738,36,19,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+739,36,20,(+2),하데스,Supergiant Games,액션
+740,37,1,(-),어몽 어스,Innersloth,전략
+741,37,2,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+742,37,3,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+743,37,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+744,37,5,(-),천수의 사쿠나히메,XSEED Games,시뮬레이션
+745,37,6,(-),인 사일런스,Ravenhood Games,공포
+746,37,7,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+747,37,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+748,37,9,(-2),피파 21,Electronic Arts,스포츠
+749,37,10,(-),폴가이즈,Devolver Digital,어드벤처
+750,37,11,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+751,37,12,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+752,37,13,(-1),파스모포비아,Kinetic Games,공포
+753,37,14,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+754,37,15,(-),래프트,Square Enix,어드벤처
+755,37,16,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+756,37,17,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+757,37,18,(-1),디트로이트: 비컴 휴먼,Quantic Dream,액션
+758,37,19,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+759,37,20,(-),하데스,Supergiant Games,액션
+760,38,1,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+761,38,2,(-1),어몽 어스,Innersloth,전략
+762,38,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+763,38,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+764,38,5,(-),천수의 사쿠나히메,XSEED Games,시뮬레이션
+765,38,6,(+2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+766,38,7,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+767,38,8,(+1),피파 21,Electronic Arts,스포츠
+768,38,9,(+16),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+769,38,10,(-),폴가이즈,Devolver Digital,어드벤처
+770,38,11,(+3),레드 데드 리뎀션 2,Rockstar Games,액션
+771,38,12,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+772,38,13,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+773,38,14,(+1),래프트,Square Enix,어드벤처
+774,38,15,(-2),파스모포비아,Kinetic Games,공포
+775,38,16,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+776,38,17,(+2),휴먼: 폴 플랫,Curve Digital,퍼즐
+777,38,18,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+778,38,19,(+1),하데스,Supergiant Games,액션
+779,38,20,(-2),디트로이트: 비컴 휴먼,Quantic Dream,액션
+780,39,1,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+781,39,2,(-),어몽 어스,Innersloth,전략
+782,39,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+783,39,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+784,39,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+785,39,6,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+786,39,7,(-2),천수의 사쿠나히메,XSEED Games,시뮬레이션
+787,39,8,(-),피파 21,Electronic Arts,스포츠
+788,39,9,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+789,39,10,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+790,39,11,(-1),폴가이즈,Devolver Digital,어드벤처
+791,39,12,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+792,39,13,(-),더 심즈 4,Electronic Arts,시뮬레이션
+793,39,14,(-),래프트,Square Enix,어드벤처
+794,39,15,(+1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+795,39,16,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+796,39,17,(-2),파스모포비아,Kinetic Games,공포
+797,39,18,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+798,39,19,(-),하데스,Supergiant Games,액션
+799,39,20,(+18),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+800,40,1,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+801,40,2,(-),어몽 어스,Innersloth,전략
+802,40,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+803,40,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+804,40,5,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+805,40,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+806,40,7,(+1),피파 21,Electronic Arts,스포츠
+807,40,8,(+3),폴가이즈,Devolver Digital,어드벤처
+808,40,9,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+809,40,10,(-3),천수의 사쿠나히메,XSEED Games,시뮬레이션
+810,40,11,(+9),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+811,40,12,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+812,40,13,(-),더 심즈 4,Electronic Arts,시뮬레이션
+813,40,14,(-4),레드 데드 리뎀션 2,Rockstar Games,액션
+814,40,15,(-1),래프트,Square Enix,어드벤처
+815,40,16,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+816,40,17,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+817,40,18,(-3),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+818,40,19,(-2),파스모포비아,Kinetic Games,공포
+819,40,20,(-1),하데스,Supergiant Games,액션
+820,41,1,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+821,41,2,(-),어몽 어스,Innersloth,전략
+822,41,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+823,41,4,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+824,41,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+825,41,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+826,41,7,(+1),폴가이즈,Devolver Digital,어드벤처
+827,41,8,(-1),피파 21,Electronic Arts,스포츠
+828,41,9,(+2),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+829,41,10,(-1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+830,41,11,(+3),레드 데드 리뎀션 2,Rockstar Games,액션
+831,41,12,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+832,41,13,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+833,41,14,(+2),휴먼: 폴 플랫,Curve Digital,퍼즐
+834,41,15,(-),래프트,Square Enix,어드벤처
+835,41,16,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+836,41,17,(-7),천수의 사쿠나히메,XSEED Games,시뮬레이션
+837,41,18,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+838,41,19,(+2),더 포레스트,Endnight Games Ltd,서바이벌
+839,41,20,(-),하데스,Supergiant Games,액션
+840,42,1,(+1),어몽 어스,Innersloth,전략
+841,42,2,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+842,42,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+843,42,4,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+844,42,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+845,42,6,(-2),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+846,42,7,(-),폴가이즈,Devolver Digital,어드벤처
+847,42,8,(-),피파 21,Electronic Arts,스포츠
+848,42,9,(NEW),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+849,42,10,(-1),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+850,42,11,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+851,42,12,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+852,42,13,(-3),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+853,42,14,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+854,42,15,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+855,42,16,(-1),래프트,Square Enix,어드벤처
+856,42,17,(-1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+857,42,18,(+1),더 포레스트,Endnight Games Ltd,서바이벌
+858,42,19,(-1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+859,42,20,(-3),천수의 사쿠나히메,XSEED Games,시뮬레이션
+860,43,1,(-),어몽 어스,Innersloth,전략
+861,43,2,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+862,43,3,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+863,43,4,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+864,43,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+865,43,6,(+3),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+866,43,7,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+867,43,8,(-1),폴가이즈,Devolver Digital,어드벤처
+868,43,9,(-1),피파 21,Electronic Arts,스포츠
+869,43,10,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+870,43,11,(-1),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+871,43,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+872,43,13,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+873,43,14,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+874,43,15,(+1),래프트,Square Enix,어드벤처
+875,43,16,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+876,43,17,(-4),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+877,43,18,(-),더 포레스트,Endnight Games Ltd,서바이벌
+878,43,19,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+879,43,20,(+1),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+880,44,1,(-),어몽 어스,Innersloth,전략
+881,44,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+882,44,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+883,44,4,(+2),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+884,44,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+885,44,6,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+886,44,7,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+887,44,8,(-),폴가이즈,Devolver Digital,어드벤처
+888,44,9,(-),피파 21,Electronic Arts,스포츠
+889,44,10,(-),더 심즈 4,Electronic Arts,시뮬레이션
+890,44,11,(NEW),풋볼 매니저 2021,SEGA,시뮬레이션
+891,44,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+892,44,13,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+893,44,14,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+894,44,15,(-),래프트,Square Enix,어드벤처
+895,44,16,(+1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+896,44,17,(-6),시티즈: 스카이 라인,Paradox Interactive,시뮬레이션
+897,44,18,(-),더 포레스트,Endnight Games Ltd,서바이벌
+898,44,19,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+899,44,20,(-),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+900,45,1,(-),어몽 어스,Innersloth,전략
+901,45,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+902,45,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+903,45,4,(-),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+904,45,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+905,45,6,(+2),폴가이즈,Devolver Digital,어드벤처
+906,45,7,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+907,45,8,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+908,45,9,(-),피파 21,Electronic Arts,스포츠
+909,45,10,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+910,45,11,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+911,45,12,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+912,45,13,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+913,45,14,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+914,45,15,(NEW),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+915,45,16,(+21),스컬: 더 히어로 슬레이어,NEOWIZ,액션
+916,45,17,(-1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+917,45,18,(-3),래프트,Square Enix,어드벤처
+918,45,19,(-),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+919,45,20,(-2),더 포레스트,Endnight Games Ltd,서바이벌
+920,46,1,(-),어몽 어스,Innersloth,전략
+921,46,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+922,46,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+923,46,4,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+924,46,5,(+1),폴가이즈,Devolver Digital,어드벤처
+925,46,6,(-2),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+926,46,7,(+1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+927,46,8,(+1),피파 21,Electronic Arts,스포츠
+928,46,9,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+929,46,10,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+930,46,11,(-),더 심즈 4,Electronic Arts,시뮬레이션
+931,46,12,(+4),스컬: 더 히어로 슬레이어,NEOWIZ,액션
+932,46,13,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+933,46,14,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+934,46,15,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+935,46,16,(+1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+936,46,17,(-2),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+937,46,18,(+1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+938,46,19,(-1),래프트,Square Enix,어드벤처
+939,46,20,(+1),테라리아,Re-Logic,롤플레잉
+940,47,1,(-),어몽 어스,Innersloth,전략
+941,47,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+942,47,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+943,47,4,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+944,47,5,(NEW),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+945,47,6,(-1),폴가이즈,Devolver Digital,어드벤처
+946,47,7,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+947,47,8,(+2),풋볼 매니저 2021,SEGA,시뮬레이션
+948,47,9,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+949,47,10,(+2),스컬: 더 히어로 슬레이어,NEOWIZ,액션
+950,47,11,(-3),피파 21,Electronic Arts,스포츠
+951,47,12,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+952,47,13,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+953,47,14,(-8),모태솔로,INDICAVA INTERACTIVE,시뮬레이션
+954,47,15,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+955,47,16,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+956,47,17,(+3),테라리아,Re-Logic,롤플레잉
+957,47,18,(-2),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+958,47,19,(-1),어쌔신 크리드 : 오디세이,Ubisoft,롤플레잉
+959,47,20,(-1),래프트,Square Enix,어드벤처
+960,48,1,(-),어몽 어스,Innersloth,전략
+961,48,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+962,48,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+963,48,4,(+1),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+964,48,5,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+965,48,6,(NEW),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+966,48,7,(-1),폴가이즈,Devolver Digital,어드벤처
+967,48,8,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+968,48,9,(+2),피파 21,Electronic Arts,스포츠
+969,48,10,(-3),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+970,48,11,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+971,48,12,(-2),스컬: 더 히어로 슬레이어,NEOWIZ,액션
+972,48,13,(-4),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+973,48,14,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+974,48,15,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+975,48,16,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+976,48,17,(-),테라리아,Re-Logic,롤플레잉
+977,48,18,(-),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+978,48,19,(+1),래프트,Square Enix,어드벤처
+979,48,20,(+1),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+980,49,1,(-),어몽 어스,Innersloth,전략
+981,49,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+982,49,3,(+3),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+983,49,4,(-),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+984,49,5,(-2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+985,49,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+986,49,7,(-),폴가이즈,Devolver Digital,어드벤처
+987,49,8,(+3),더 심즈 4,Electronic Arts,시뮬레이션
+988,49,9,(+1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+989,49,10,(-2),풋볼 매니저 2021,SEGA,시뮬레이션
+990,49,11,(-2),피파 21,Electronic Arts,스포츠
+991,49,12,(+2),휴먼: 폴 플랫,Curve Digital,퍼즐
+992,49,13,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+993,49,14,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+994,49,15,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+995,49,16,(+2),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+996,49,17,(+2),래프트,Square Enix,어드벤처
+997,49,18,(-1),테라리아,Re-Logic,롤플레잉
+998,49,19,(+1),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+999,49,20,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+1000,50,1,(-),어몽 어스,Innersloth,전략
+1001,50,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1002,50,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1003,50,4,(-),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1004,50,5,(NEW),팀파이트 매니저,Team Samoyed,시뮬레이션
+1005,50,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1006,50,7,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1007,50,8,(-1),폴가이즈,Devolver Digital,어드벤처
+1008,50,9,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1009,50,10,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1010,50,11,(+3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1011,50,12,(-2),풋볼 매니저 2021,SEGA,시뮬레이션
+1012,50,13,(-2),피파 21,Electronic Arts,스포츠
+1013,50,14,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+1014,50,15,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1015,50,16,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1016,50,17,(-1),삼국지14,"KOEI TECMO GAMES CO., LTD.",시뮬레이션
+1017,50,18,(-1),래프트,Square Enix,어드벤처
+1018,50,19,(-),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1019,50,20,(-2),테라리아,Re-Logic,롤플레잉
+1020,51,1,(-),어몽 어스,Innersloth,전략
+1021,51,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1022,51,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1023,51,4,(-),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1024,51,5,(-),팀파이트 매니저,Team Samoyed,시뮬레이션
+1025,51,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1026,51,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1027,51,8,(-),폴가이즈,Devolver Digital,어드벤처
+1028,51,9,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1029,51,10,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1030,51,11,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1031,51,12,(+1),피파 21,Electronic Arts,스포츠
+1032,51,13,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1033,51,14,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+1034,51,15,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1035,51,16,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1036,51,17,(+1),래프트,Square Enix,어드벤처
+1037,51,18,(+1),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1038,51,19,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+1039,51,20,(+6),용과 같이 7: 빛과 어둠의 행방,SEGA,JRPG
+1040,52,1,(-),어몽 어스,Innersloth,전략
+1041,52,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1042,52,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1043,52,4,(+1),팀파이트 매니저,Team Samoyed,시뮬레이션
+1044,52,5,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1045,52,6,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1046,52,7,(-3),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1047,52,8,(+2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1048,52,9,(-1),폴가이즈,Devolver Digital,어드벤처
+1049,52,10,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1050,52,11,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1051,52,12,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+1052,52,13,(-1),피파 21,Electronic Arts,스포츠
+1053,52,14,(+4),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1054,52,15,(+5),용과 같이 7: 빛과 어둠의 행방,SEGA,JRPG
+1055,52,16,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+1056,52,17,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1057,52,18,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1058,52,19,(+2),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1059,52,20,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+1060,53,1,(-),어몽 어스,Innersloth,전략
+1061,53,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1062,53,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1063,53,4,(-),팀파이트 매니저,Team Samoyed,시뮬레이션
+1064,53,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1065,53,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1066,53,7,(-),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1067,53,8,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1068,53,9,(-),폴가이즈,Devolver Digital,어드벤처
+1069,53,10,(+1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1070,53,11,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1071,53,12,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1072,53,13,(-),피파 21,Electronic Arts,스포츠
+1073,53,14,(-),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1074,53,15,(+7),리듬 닥터,7th Beat Games,리듬
+1075,53,16,(+3),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1076,53,17,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1077,53,18,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+1078,53,19,(NEW),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1079,53,20,(-2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1080,54,1,(-),어몽 어스,Innersloth,전략
+1081,54,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1082,54,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1083,54,4,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1084,54,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1085,54,6,(-2),팀파이트 매니저,Team Samoyed,시뮬레이션
+1086,54,7,(NEW),잇 테이크 투,Electronic Arts,액션
+1087,54,8,(+1),폴가이즈,Devolver Digital,어드벤처
+1088,54,9,(-2),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1089,54,10,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1090,54,11,(+8),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1091,54,12,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1092,54,13,(NEW),아웃라이더스,Square Enix,액션 TPS
+1093,54,14,(-1),피파 21,Electronic Arts,스포츠
+1094,54,15,(-5),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1095,54,16,(-5),더 심즈 4,Electronic Arts,시뮬레이션
+1096,54,17,(-1),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1097,54,18,(-4),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1098,54,19,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1099,54,20,(-2),철권 7,BANDAI NAMCO Entertainment,액션
+1100,55,1,(-),어몽 어스,Innersloth,전략
+1101,55,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1102,55,3,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1103,55,4,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1104,55,5,(+2),잇 테이크 투,Electronic Arts,액션
+1105,55,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1106,55,7,(+6),아웃라이더스,Square Enix,액션 TPS
+1107,55,8,(-),폴가이즈,Devolver Digital,어드벤처
+1108,55,9,(+2),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1109,55,10,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1110,55,11,(-2),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1111,55,12,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1112,55,13,(+1),피파 21,Electronic Arts,스포츠
+1113,55,14,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+1114,55,15,(+3),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1115,55,16,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1116,55,17,(-),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1117,55,18,(+2),철권 7,BANDAI NAMCO Entertainment,액션
+1118,55,19,(-),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1119,55,20,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1120,56,1,(-),어몽 어스,Innersloth,전략
+1121,56,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1122,56,3,(+2),잇 테이크 투,Electronic Arts,액션
+1123,56,4,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1124,56,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1125,56,6,(-3),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1126,56,7,(-),아웃라이더스,Square Enix,액션 TPS
+1127,56,8,(-),폴가이즈,Devolver Digital,어드벤처
+1128,56,9,(-),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1129,56,10,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1130,56,11,(+2),피파 21,Electronic Arts,스포츠
+1131,56,12,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1132,56,13,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1133,56,14,(-3),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1134,56,15,(+1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1135,56,16,(+1),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1136,56,17,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+1137,56,18,(-3),톰 클랜시의 레인보우 식스 시즈,Ubisoft,FPS
+1138,56,19,(+12),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1139,56,20,(-1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+1140,57,1,(-),어몽 어스,Innersloth,전략
+1141,57,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1142,57,3,(-),잇 테이크 투,Electronic Arts,액션
+1143,57,4,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1144,57,5,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1145,57,6,(+1),아웃라이더스,Square Enix,액션 TPS
+1146,57,7,(+12),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1147,57,8,(-2),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1148,57,9,(-),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1149,57,10,(-2),폴가이즈,Devolver Digital,어드벤처
+1150,57,11,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1151,57,12,(+15),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1152,57,13,(-2),피파 21,Electronic Arts,스포츠
+1153,57,14,(-2),풋볼 매니저 2021,SEGA,시뮬레이션
+1154,57,15,(+8),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1155,57,16,(-3),더 심즈 4,Electronic Arts,시뮬레이션
+1156,57,17,(-2),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1157,57,18,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+1158,57,19,(-5),리틀 나이트메어 2,BANDAI NAMCO Entertainment,서스펜스 어드벤처 게임
+1159,57,20,(-4),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1160,58,1,(-),어몽 어스,Innersloth,전략
+1161,58,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1162,58,3,(-),잇 테이크 투,Electronic Arts,액션
+1163,58,4,(+3),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1164,58,5,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1165,58,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1166,58,7,(-1),아웃라이더스,Square Enix,액션 TPS
+1167,58,8,(+4),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1168,58,9,(-1),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1169,58,10,(-1),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1170,58,11,(-1),폴가이즈,Devolver Digital,어드벤처
+1171,58,12,(+24),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1172,58,13,(+2),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1173,58,14,(-3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1174,58,15,(-2),피파 21,Electronic Arts,스포츠
+1175,58,16,(+9),레드 데드 리뎀션 2,Rockstar Games,액션
+1176,58,17,(-3),풋볼 매니저 2021,SEGA,시뮬레이션
+1177,58,18,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+1178,58,19,(-2),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1179,58,20,(-2),철권 7,BANDAI NAMCO Entertainment,액션
+1180,59,1,(-),어몽 어스,Innersloth,전략
+1181,59,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1182,59,3,(-),잇 테이크 투,Electronic Arts,액션
+1183,59,4,(+4),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1184,59,5,(-1),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1185,59,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1186,59,7,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1187,59,8,(+4),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1188,59,9,(+2),폴가이즈,Devolver Digital,어드벤처
+1189,59,10,(-1),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1190,59,11,(+4),피파 21,Electronic Arts,스포츠
+1191,59,12,(-2),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1192,59,13,(-),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1193,59,14,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1194,59,15,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1195,59,16,(+4),철권 7,BANDAI NAMCO Entertainment,액션
+1196,59,17,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1197,59,18,(-11),아웃라이더스,Square Enix,액션 TPS
+1198,59,19,(-),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1199,59,20,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+1200,60,1,(-),어몽 어스,Innersloth,전략
+1201,60,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1202,60,3,(-),잇 테이크 투,Electronic Arts,액션
+1203,60,4,(-),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1204,60,5,(-),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1205,60,6,(+15),블레스 언리쉬드,NEOWIZ,MMORPG
+1206,60,7,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1207,60,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1208,60,9,(-),폴가이즈,Devolver Digital,어드벤처
+1209,60,10,(-2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1210,60,11,(-1),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1211,60,12,(-1),피파 21,Electronic Arts,스포츠
+1212,60,13,(-),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1213,60,14,(-2),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1214,60,15,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1215,60,16,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1216,60,17,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+1217,60,18,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1218,60,19,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1219,60,20,(-1),영원회귀: 블랙서바이벌,Nimble Neuron,전략 기반 서바이벌
+1220,61,1,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1221,61,2,(-1),어몽 어스,Innersloth,전략
+1222,61,3,(-),잇 테이크 투,Electronic Arts,액션
+1223,61,4,(-),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1224,61,5,(+1),블레스 언리쉬드,NEOWIZ,MMORPG
+1225,61,6,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1226,61,7,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1227,61,8,(-3),니어 레플리칸트 ver.1.22474487139...,Square Enix,액션 RPG
+1228,61,9,(-),폴가이즈,Devolver Digital,어드벤처
+1229,61,10,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1230,61,11,(+5),레드 데드 리뎀션 2,Rockstar Games,액션
+1231,61,12,(-),피파 21,Electronic Arts,스포츠
+1232,61,13,(+2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1233,61,14,(-3),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1234,61,15,(+4),더 심즈 4,Electronic Arts,시뮬레이션
+1235,61,16,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+1236,61,17,(NEW),NBA 2K21,2K,스포츠
+1237,61,18,(-4),아웃 오브 더 파크 베이스볼 22,Out of the Park Developments,스포츠
+1238,61,19,(+18),데이즈 곤,"PlayStation Mobile, Inc.",서바이벌 호러
+1239,61,20,(-2),풋볼 매니저 2021,SEGA,시뮬레이션
+1240,62,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1241,62,2,(-),어몽 어스,Innersloth,전략
+1242,62,3,(+1),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1243,62,4,(-1),잇 테이크 투,Electronic Arts,액션
+1244,62,5,(-),블레스 언리쉬드,NEOWIZ,MMORPG
+1245,62,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1246,62,7,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1247,62,8,(+1),폴가이즈,Devolver Digital,어드벤처
+1248,62,9,(+1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1249,62,10,(+7),NBA 2K21,2K,스포츠
+1250,62,11,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1251,62,12,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1252,62,13,(+20),바이오뮤턴트,THQ Nordic,쿵후 RPG
+1253,62,14,(-2),피파 21,Electronic Arts,스포츠
+1254,62,15,(+4),데이즈 곤,"PlayStation Mobile, Inc.",서바이벌 호러
+1255,62,16,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1256,62,17,(-3),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1257,62,18,(-2),철권 7,BANDAI NAMCO Entertainment,액션
+1258,62,19,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+1259,62,20,(+1),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1260,63,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1261,63,2,(-),어몽 어스,Innersloth,전략
+1262,63,3,(+1),잇 테이크 투,Electronic Arts,액션
+1263,63,4,(-1),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1264,63,5,(-),블레스 언리쉬드,NEOWIZ,MMORPG
+1265,63,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1266,63,7,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1267,63,8,(+2),NBA 2K21,2K,스포츠
+1268,63,9,(+2),레드 데드 리뎀션 2,Rockstar Games,액션
+1269,63,10,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1270,63,11,(-2),폴가이즈,Devolver Digital,어드벤처
+1271,63,12,(+3),데이즈 곤,"PlayStation Mobile, Inc.",서바이벌 호러
+1272,63,13,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1273,63,14,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+1274,63,15,(-1),피파 21,Electronic Arts,스포츠
+1275,63,16,(-3),바이오뮤턴트,THQ Nordic,쿵후 RPG
+1276,63,17,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1277,63,18,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+1278,63,19,(+1),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+1279,63,20,(+4),테라리아,Re-Logic,롤플레잉
+1280,64,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1281,64,2,(-),어몽 어스,Innersloth,전략
+1282,64,3,(-),잇 테이크 투,Electronic Arts,액션
+1283,64,4,(+2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1284,64,5,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1285,64,6,(-2),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1286,64,7,(-2),블레스 언리쉬드,NEOWIZ,MMORPG
+1287,64,8,(-),NBA 2K21,2K,스포츠
+1288,64,9,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1289,64,10,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1290,64,11,(+1),데이즈 곤,"PlayStation Mobile, Inc.",서바이벌 호러
+1291,64,12,(-1),폴가이즈,Devolver Digital,어드벤처
+1292,64,13,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1293,64,14,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1294,64,15,(-),피파 21,Electronic Arts,스포츠
+1295,64,16,(-),바이오뮤턴트,THQ Nordic,쿵후 RPG
+1296,64,17,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1297,64,18,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1298,64,19,(+11),프로스트펑크,THQ Nordic,액션
+1299,64,20,(-),테라리아,Re-Logic,롤플레잉
+1300,65,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1301,65,2,(-),어몽 어스,Innersloth,전략
+1302,65,3,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1303,65,4,(-1),잇 테이크 투,Electronic Arts,액션
+1304,65,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1305,65,6,(+26),배틀필드 2042,Electronic Arts,액션
+1306,65,7,(+2),레드 데드 리뎀션 2,Rockstar Games,액션
+1307,65,8,(+2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1308,65,9,(-1),NBA 2K21,2K,스포츠
+1309,65,10,(+3),더 심즈 4,Electronic Arts,시뮬레이션
+1310,65,11,(+1),폴가이즈,Devolver Digital,어드벤처
+1311,65,12,(+19),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1312,65,13,(+5),풋볼 매니저 2021,SEGA,시뮬레이션
+1313,65,14,(-8),바이오하자드 빌리지,"CAPCOM Co., Ltd.",서바이벌 호러
+1314,65,15,(-4),데이즈 곤,"PlayStation Mobile, Inc.",서바이벌 호러
+1315,65,16,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1316,65,17,(-2),피파 21,Electronic Arts,스포츠
+1317,65,18,(+1),프로스트펑크,THQ Nordic,액션
+1318,65,19,(-2),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1319,65,20,(+4),철권 7,BANDAI NAMCO Entertainment,액션
+1320,66,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1321,66,2,(-),어몽 어스,Innersloth,전략
+1322,66,3,(+1),잇 테이크 투,Electronic Arts,액션
+1323,66,4,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1324,66,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1325,66,6,(-),배틀필드 2042,Electronic Arts,액션
+1326,66,7,(+5),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1327,66,8,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1328,66,9,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1329,66,10,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1330,66,11,(+26),스칼렛 스트링스,BANDAI NAMCO Entertainment,액션
+1331,66,12,(-1),폴가이즈,Devolver Digital,어드벤처
+1332,66,13,(+7),철권 7,BANDAI NAMCO Entertainment,액션
+1333,66,14,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1334,66,15,(+18),오버쿡드! 2,Team17 Digital Ltd,캐주얼
+1335,66,16,(+2),프로스트펑크,THQ Nordic,액션
+1336,66,17,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1337,66,18,(-1),피파 21,Electronic Arts,스포츠
+1338,66,19,(-),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1339,66,20,(+2),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1340,67,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1341,67,2,(-),어몽 어스,Innersloth,전략
+1342,67,3,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1343,67,4,(+3),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1344,67,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1345,67,6,(-2),잇 테이크 투,Electronic Arts,액션
+1346,67,7,(-1),배틀필드 2042,Electronic Arts,액션
+1347,67,8,(+5),철권 7,BANDAI NAMCO Entertainment,액션
+1348,67,9,(+2),스칼렛 스트링스,BANDAI NAMCO Entertainment,액션
+1349,67,10,(+2),폴가이즈,Devolver Digital,어드벤처
+1350,67,11,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1351,67,12,(-4),레드 데드 리뎀션 2,Rockstar Games,액션
+1352,67,13,(-4),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1353,67,14,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1354,67,15,(-),오버쿡드! 2,Team17 Digital Ltd,캐주얼
+1355,67,16,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1356,67,17,(+3),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1357,67,18,(+3),디트로이트: 비컴 휴먼,Quantic Dream,액션
+1358,67,19,(-5),하데스,Supergiant Games,액션
+1359,67,20,(-2),피파 21,Electronic Arts,스포츠
+1360,68,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1361,68,2,(-),어몽 어스,Innersloth,전략
+1362,68,3,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1363,68,4,(NEW),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1364,68,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1365,68,6,(-3),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1366,68,7,(-1),잇 테이크 투,Electronic Arts,액션
+1367,68,8,(-1),배틀필드 2042,Electronic Arts,액션
+1368,68,9,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+1369,68,10,(-),폴가이즈,Devolver Digital,어드벤처
+1370,68,11,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1371,68,12,(-3),스칼렛 스트링스,BANDAI NAMCO Entertainment,액션
+1372,68,13,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1373,68,14,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1374,68,15,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1375,68,16,(-1),오버쿡드! 2,Team17 Digital Ltd,캐주얼
+1376,68,17,(-),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1377,68,18,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1378,68,19,(-),하데스,Supergiant Games,액션
+1379,68,20,(-2),디트로이트: 비컴 휴먼,Quantic Dream,액션
+1380,69,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1381,69,2,(-),어몽 어스,Innersloth,전략
+1382,69,3,(+1),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1383,69,4,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1384,69,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1385,69,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1386,69,7,(-),잇 테이크 투,Electronic Arts,액션
+1387,69,8,(+1),철권 7,BANDAI NAMCO Entertainment,액션
+1388,69,9,(+1),폴가이즈,Devolver Digital,어드벤처
+1389,69,10,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1390,69,11,(+2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1391,69,12,(-),스칼렛 스트링스,BANDAI NAMCO Entertainment,액션
+1392,69,13,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1393,69,14,(-6),배틀필드 2042,Electronic Arts,액션
+1394,69,15,(+3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1395,69,16,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1396,69,17,(+2),하데스,Supergiant Games,액션
+1397,69,18,(-1),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1398,69,19,(-3),오버쿡드! 2,Team17 Digital Ltd,캐주얼
+1399,69,20,(+1),더 포레스트,Endnight Games Ltd,서바이벌
+1400,70,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1401,70,2,(-),어몽 어스,Innersloth,전략
+1402,70,3,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1403,70,4,(-1),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1404,70,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1405,70,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1406,70,7,(-),잇 테이크 투,Electronic Arts,액션
+1407,70,8,(+1),폴가이즈,Devolver Digital,어드벤처
+1408,70,9,(-1),철권 7,BANDAI NAMCO Entertainment,액션
+1409,70,10,(+1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1410,70,11,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1411,70,12,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1412,70,13,(+4),하데스,Supergiant Games,액션
+1413,70,14,(-),배틀필드 2042,Electronic Arts,액션
+1414,70,15,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1415,70,16,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1416,70,17,(+1),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1417,70,18,(+2),더 포레스트,Endnight Games Ltd,서바이벌
+1418,70,19,(+2),피파 21,Electronic Arts,스포츠
+1419,70,20,(+4),휴먼: 폴 플랫,Curve Digital,퍼즐
+1420,71,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1421,71,2,(-),어몽 어스,Innersloth,전략
+1422,71,3,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1423,71,4,(-),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1424,71,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1425,71,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1426,71,7,(-),잇 테이크 투,Electronic Arts,액션
+1427,71,8,(-),폴가이즈,Devolver Digital,어드벤처
+1428,71,9,(+1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1429,71,10,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1430,71,11,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1431,71,12,(-3),철권 7,BANDAI NAMCO Entertainment,액션
+1432,71,13,(+1),배틀필드 2042,Electronic Arts,액션
+1433,71,14,(-1),하데스,Supergiant Games,액션
+1434,71,15,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1435,71,16,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1436,71,17,(+2),피파 21,Electronic Arts,스포츠
+1437,71,18,(-1),포르자 호라이즌 4,Xbox Game Studios,레이싱
+1438,71,19,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1439,71,20,(+1),발하임,Coffee Stain Publishing,오픈 월드 생존 크래프트
+1440,72,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1441,72,2,(-),어몽 어스,Innersloth,전략
+1442,72,3,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1443,72,4,(-),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1444,72,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1445,72,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1446,72,7,(+15),블레스 언리쉬드,NEOWIZ,MMORPG
+1447,72,8,(-1),잇 테이크 투,Electronic Arts,액션
+1448,72,9,(-1),폴가이즈,Devolver Digital,어드벤처
+1449,72,10,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1450,72,11,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1451,72,12,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+1452,72,13,(-),배틀필드 2042,Electronic Arts,액션
+1453,72,14,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1454,72,15,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+1455,72,16,(-4),철권 7,BANDAI NAMCO Entertainment,액션
+1456,72,17,(-3),하데스,Supergiant Games,액션
+1457,72,18,(+8),트라이브스 오브 미드가르드,Gearbox Publishing,액션
+1458,72,19,(-2),피파 21,Electronic Arts,스포츠
+1459,72,20,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1460,73,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1461,73,2,(-),어몽 어스,Innersloth,전략
+1462,73,3,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1463,73,4,(+3),블레스 언리쉬드,NEOWIZ,MMORPG
+1464,73,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1465,73,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1466,73,7,(-3),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1467,73,8,(-),잇 테이크 투,Electronic Arts,액션
+1468,73,9,(-),폴가이즈,Devolver Digital,어드벤처
+1469,73,10,(+3),배틀필드 2042,Electronic Arts,액션
+1470,73,11,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1471,73,12,(-2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1472,73,13,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1473,73,14,(+3),하데스,Supergiant Games,액션
+1474,73,15,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1475,73,16,(+2),트라이브스 오브 미드가르드,Gearbox Publishing,액션
+1476,73,17,(-3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1477,73,18,(-2),철권 7,BANDAI NAMCO Entertainment,액션
+1478,73,19,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1479,73,20,(-1),피파 21,Electronic Arts,스포츠
+1480,74,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1481,74,2,(+2),블레스 언리쉬드,NEOWIZ,MMORPG
+1482,74,3,(-1),어몽 어스,Innersloth,전략
+1483,74,4,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1484,74,5,(NEW),그랜드 체이스,KOG,액션
+1485,74,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1486,74,7,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1487,74,8,(-),잇 테이크 투,Electronic Arts,액션
+1488,74,9,(-),폴가이즈,Devolver Digital,어드벤처
+1489,74,10,(-),배틀필드 2042,Electronic Arts,액션
+1490,74,11,(-4),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1491,74,12,(+2),하데스,Supergiant Games,액션
+1492,74,13,(+2),풋볼 매니저 2021,SEGA,시뮬레이션
+1493,74,14,(-3),레드 데드 리뎀션 2,Rockstar Games,액션
+1494,74,15,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+1495,74,16,(-),트라이브스 오브 미드가르드,Gearbox Publishing,액션
+1496,74,17,(-5),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1497,74,18,(NEW),휴먼카인드,SEGA,전략
+1498,74,19,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1499,74,20,(+4),백 4 블러드,Warner Bros. Games,액션
+1500,75,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1501,75,2,(-),블레스 언리쉬드,NEOWIZ,MMORPG
+1502,75,3,(-),어몽 어스,Innersloth,전략
+1503,75,4,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1504,75,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1505,75,6,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1506,75,7,(-2),그랜드 체이스,KOG,액션
+1507,75,8,(-),잇 테이크 투,Electronic Arts,액션
+1508,75,9,(-),폴가이즈,Devolver Digital,어드벤처
+1509,75,10,(-),배틀필드 2042,Electronic Arts,액션
+1510,75,11,(+1),하데스,Supergiant Games,액션
+1511,75,12,(+1),풋볼 매니저 2021,SEGA,시뮬레이션
+1512,75,13,(+5),휴먼카인드,SEGA,전략
+1513,75,14,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1514,75,15,(-4),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1515,75,16,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1516,75,17,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1517,75,18,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1518,75,19,(+1),백 4 블러드,Warner Bros. Games,액션
+1519,75,20,(+19),프로젝트 좀보이드,The Indie Stone,RPG
+1520,76,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1521,76,2,(-),블레스 언리쉬드,NEOWIZ,MMORPG
+1522,76,3,(-),어몽 어스,Innersloth,전략
+1523,76,4,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1524,76,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1525,76,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1526,76,7,(+1),잇 테이크 투,Electronic Arts,액션
+1527,76,8,(+1),폴가이즈,Devolver Digital,어드벤처
+1528,76,9,(+1),배틀필드 2042,Electronic Arts,액션
+1529,76,10,(-3),그랜드 체이스,KOG,액션
+1530,76,11,(+9),프로젝트 좀보이드,The Indie Stone,RPG
+1531,76,12,(-1),하데스,Supergiant Games,액션
+1532,76,13,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1533,76,14,(-1),휴먼카인드,SEGA,전략
+1534,76,15,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1535,76,16,(NEW),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1536,76,17,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1537,76,18,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1538,76,19,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1539,76,20,(-5),몬스터헌터 스토리즈 2 파멸의 날개,"CAPCOM Co., Ltd.",롤플레잉
+1540,77,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1541,77,2,(+1),어몽 어스,Innersloth,전략
+1542,77,3,(-1),블레스 언리쉬드,NEOWIZ,MMORPG
+1543,77,4,(+12),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1544,77,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1545,77,6,(-2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1546,77,7,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1547,77,8,(-1),잇 테이크 투,Electronic Arts,액션
+1548,77,9,(+3),프로젝트 좀보이드,The Indie Stone,RPG
+1549,77,10,(-1),배틀필드 2042,Electronic Arts,액션
+1550,77,11,(-3),폴가이즈,Devolver Digital,어드벤처
+1551,77,12,(-),하데스,Supergiant Games,액션
+1552,77,13,(-),풋볼 매니저 2021,SEGA,시뮬레이션
+1553,77,14,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1554,77,15,(-1),휴먼카인드,SEGA,전략
+1555,77,16,(-6),그랜드 체이스,KOG,액션
+1556,77,17,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1557,77,18,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1558,77,19,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1559,77,20,(+4),문명6,2K,전략
+1560,78,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1561,78,2,(-),어몽 어스,Innersloth,전략
+1562,78,3,(+1),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1563,78,4,(-1),블레스 언리쉬드,NEOWIZ,MMORPG
+1564,78,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1565,78,6,(+3),프로젝트 좀보이드,The Indie Stone,RPG
+1566,78,7,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1567,78,8,(-),잇 테이크 투,Electronic Arts,액션
+1568,78,9,(-2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1569,78,10,(-),배틀필드 2042,Electronic Arts,액션
+1570,78,11,(-),폴가이즈,Devolver Digital,어드벤처
+1571,78,12,(-),하데스,Supergiant Games,액션
+1572,78,13,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1573,78,14,(-1),풋볼 매니저 2021,SEGA,시뮬레이션
+1574,78,15,(+5),문명6,2K,전략
+1575,78,16,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1576,78,17,(-1),그랜드 체이스,KOG,액션
+1577,78,18,(+1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1578,78,19,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1579,78,20,(+1),배틀필드 5,Electronic Arts,액션
+1580,79,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1581,79,2,(-),어몽 어스,Innersloth,전략
+1582,79,3,(-),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1583,79,4,(+4),잇 테이크 투,Electronic Arts,액션
+1584,79,5,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1585,79,6,(-),프로젝트 좀보이드,The Indie Stone,RPG
+1586,79,7,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1587,79,8,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1588,79,9,(+1),배틀필드 2042,Electronic Arts,액션
+1589,79,10,(-6),블레스 언리쉬드,NEOWIZ,MMORPG
+1590,79,11,(-),폴가이즈,Devolver Digital,어드벤처
+1591,79,12,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1592,79,13,(-1),하데스,Supergiant Games,액션
+1593,79,14,(+1),문명6,2K,전략
+1594,79,15,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1595,79,16,(-2),풋볼 매니저 2021,SEGA,시뮬레이션
+1596,79,17,(+2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1597,79,18,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1598,79,19,(NEW),데스 루프,Bethesda Softworks,액션
+1599,79,20,(-3),그랜드 체이스,KOG,액션
+1600,80,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1601,80,2,(NEW),FIFA 22,Electronic Arts,스포츠
+1602,80,3,(-1),어몽 어스,Innersloth,전략
+1603,80,4,(-1),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1604,80,5,(-1),잇 테이크 투,Electronic Arts,액션
+1605,80,6,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1606,80,7,(+2),배틀필드 2042,Electronic Arts,액션
+1607,80,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1608,80,9,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1609,80,10,(+1),폴가이즈,Devolver Digital,어드벤처
+1610,80,11,(-5),프로젝트 좀보이드,The Indie Stone,RPG
+1611,80,12,(-2),블레스 언리쉬드,NEOWIZ,MMORPG
+1612,80,13,(+16),뉴 월드,Amazon Games,MMORPG
+1613,80,14,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+1614,80,15,(-2),하데스,Supergiant Games,액션
+1615,80,16,(-2),문명6,2K,전략
+1616,80,17,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1617,80,18,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1618,80,19,(-2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1619,80,20,(-4),풋볼 매니저 2021,SEGA,시뮬레이션
+1620,81,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1621,81,2,(-),FIFA 22,Electronic Arts,스포츠
+1622,81,3,(-),어몽 어스,Innersloth,전략
+1623,81,4,(-),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1624,81,5,(+2),배틀필드 2042,Electronic Arts,액션
+1625,81,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1626,81,7,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1627,81,8,(+5),뉴 월드,Amazon Games,MMORPG
+1628,81,9,(+1),폴가이즈,Devolver Digital,어드벤처
+1629,81,10,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1630,81,11,(-6),잇 테이크 투,Electronic Arts,액션
+1631,81,12,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+1632,81,13,(-2),프로젝트 좀보이드,The Indie Stone,RPG
+1633,81,14,(-2),블레스 언리쉬드,NEOWIZ,MMORPG
+1634,81,15,(-),하데스,Supergiant Games,액션
+1635,81,16,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1636,81,17,(+1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1637,81,18,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1638,81,19,(+2),데스 루프,Bethesda Softworks,액션
+1639,81,20,(-4),문명6,2K,전략
+1640,82,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1641,82,2,(-),FIFA 22,Electronic Arts,스포츠
+1642,82,3,(-),어몽 어스,Innersloth,전략
+1643,82,4,(+1),배틀필드 2042,Electronic Arts,액션
+1644,82,5,(+3),뉴 월드,Amazon Games,MMORPG
+1645,82,6,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1646,82,7,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1647,82,8,(+3),잇 테이크 투,Electronic Arts,액션
+1648,82,9,(-5),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1649,82,10,(-1),폴가이즈,Devolver Digital,어드벤처
+1650,82,11,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1651,82,12,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1652,82,13,(+2),하데스,Supergiant Games,액션
+1653,82,14,(+23),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1654,82,15,(+2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1655,82,16,(-3),프로젝트 좀보이드,The Indie Stone,RPG
+1656,82,17,(-3),블레스 언리쉬드,NEOWIZ,MMORPG
+1657,82,18,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1658,82,19,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1659,82,20,(+19),백 4 블러드,Warner Bros. Games,액션
+1660,83,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1661,83,2,(-),FIFA 22,Electronic Arts,스포츠
+1662,83,3,(-),어몽 어스,Innersloth,전략
+1663,83,4,(+1),뉴 월드,Amazon Games,MMORPG
+1664,83,5,(-1),배틀필드 2042,Electronic Arts,액션
+1665,83,6,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1666,83,7,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1667,83,8,(-),잇 테이크 투,Electronic Arts,액션
+1668,83,9,(+2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1669,83,10,(-),폴가이즈,Devolver Digital,어드벤처
+1670,83,11,(+3),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1671,83,12,(-3),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1672,83,13,(-),하데스,Supergiant Games,액션
+1673,83,14,(+6),백 4 블러드,Warner Bros. Games,액션
+1674,83,15,(-3),더 심즈 4,Electronic Arts,시뮬레이션
+1675,83,16,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1676,83,17,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1677,83,18,(+1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1678,83,19,(-3),프로젝트 좀보이드,The Indie Stone,RPG
+1679,83,20,(-3),블레스 언리쉬드,NEOWIZ,MMORPG
+1680,84,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1681,84,2,(-),FIFA 22,Electronic Arts,스포츠
+1682,84,3,(-),어몽 어스,Innersloth,전략
+1683,84,4,(+1),배틀필드 2042,Electronic Arts,액션
+1684,84,5,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1685,84,6,(+3),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1686,84,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1687,84,8,(-4),뉴 월드,Amazon Games,MMORPG
+1688,84,9,(-1),잇 테이크 투,Electronic Arts,액션
+1689,84,10,(+1),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1690,84,11,(-1),폴가이즈,Devolver Digital,어드벤처
+1691,84,12,(+1),하데스,Supergiant Games,액션
+1692,84,13,(+1),백 4 블러드,Warner Bros. Games,액션
+1693,84,14,(+2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1694,84,15,(-3),테일즈 오브 어라이즈,BANDAI NAMCO Entertainment,액션
+1695,84,16,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1696,84,17,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1697,84,18,(NEW),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1698,84,19,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1699,84,20,(-1),프로젝트 좀보이드,The Indie Stone,RPG
+1700,85,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1701,85,2,(+1),어몽 어스,Innersloth,전략
+1702,85,3,(-1),FIFA 22,Electronic Arts,스포츠
+1703,85,4,(NEW),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,전략
+1704,85,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1705,85,6,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1706,85,7,(+2),잇 테이크 투,Electronic Arts,액션
+1707,85,8,(-4),배틀필드 2042,Electronic Arts,액션
+1708,85,9,(-2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1709,85,10,(-),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1710,85,11,(+21),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1711,85,12,(-1),폴가이즈,Devolver Digital,어드벤처
+1712,85,13,(+5),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1713,85,14,(-6),뉴 월드,Amazon Games,MMORPG
+1714,85,15,(-2),백 4 블러드,Warner Bros. Games,액션
+1715,85,16,(-4),하데스,Supergiant Games,액션
+1716,85,17,(-3),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1717,85,18,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1718,85,19,(-),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1719,85,20,(-4),더 심즈 4,Electronic Arts,시뮬레이션
+1720,86,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1721,86,2,(-),어몽 어스,Innersloth,전략
+1722,86,3,(NEW),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1723,86,4,(-),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,전략
+1724,86,5,(NEW),풋볼 매니저 2022,SEGA,스포츠
+1725,86,6,(-3),FIFA 22,Electronic Arts,스포츠
+1726,86,7,(+4),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1727,86,8,(-3),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1728,86,9,(-1),배틀필드 2042,Electronic Arts,액션
+1729,86,10,(-4),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1730,86,11,(-2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1731,86,12,(+1),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1732,86,13,(-6),잇 테이크 투,Electronic Arts,액션
+1733,86,14,(-4),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1734,86,15,(-3),폴가이즈,Devolver Digital,어드벤처
+1735,86,16,(-),하데스,Supergiant Games,액션
+1736,86,17,(-),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1737,86,18,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1738,86,19,(-4),백 4 블러드,Warner Bros. Games,액션
+1739,86,20,(-6),뉴 월드,Amazon Games,MMORPG
+1740,87,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1741,87,2,(-),어몽 어스,Innersloth,전략
+1742,87,3,(-),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1743,87,4,(+5),배틀필드 2042,Electronic Arts,액션
+1744,87,5,(-),풋볼 매니저 2022,SEGA,스포츠
+1745,87,6,(-2),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,전략
+1746,87,7,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1747,87,8,(-2),FIFA 22,Electronic Arts,스포츠
+1748,87,9,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1749,87,10,(-2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1750,87,11,(NEW),파피 플레이타임,MOB Games,액션
+1751,87,12,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1752,87,13,(-1),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1753,87,14,(-1),잇 테이크 투,Electronic Arts,액션
+1754,87,15,(-),폴가이즈,Devolver Digital,어드벤처
+1755,87,16,(-),하데스,Supergiant Games,액션
+1756,87,17,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1757,87,18,(-4),귀멸의 칼날 히노카미 혈풍담,SEGA,액션
+1758,87,19,(-2),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1759,87,20,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+1760,88,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1761,88,2,(-),어몽 어스,Innersloth,전략
+1762,88,3,(-),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1763,88,4,(-),배틀필드 2042,Electronic Arts,액션
+1764,88,5,(+2),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1765,88,6,(-1),풋볼 매니저 2022,SEGA,스포츠
+1766,88,7,(+1),FIFA 22,Electronic Arts,스포츠
+1767,88,8,(+3),파피 플레이타임,MOB Games,액션
+1768,88,9,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1769,88,10,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1770,88,11,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1771,88,12,(-6),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,전략
+1772,88,13,(-),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1773,88,14,(-),잇 테이크 투,Electronic Arts,액션
+1774,88,15,(-),폴가이즈,Devolver Digital,어드벤처
+1775,88,16,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1776,88,17,(-1),하데스,Supergiant Games,액션
+1777,88,18,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+1778,88,19,(+2),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1779,88,20,(-1),어 댄스 오브 파이어 앤 아이스,7th Beat Games,음악
+1780,89,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1781,89,2,(-),어몽 어스,Innersloth,전략
+1782,89,3,(-),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1783,89,4,(-),배틀필드 2042,Electronic Arts,액션
+1784,89,5,(+3),파피 플레이타임,MOB Games,액션
+1785,89,6,(+1),FIFA 22,Electronic Arts,스포츠
+1786,89,7,(-1),풋볼 매니저 2022,SEGA,스포츠
+1787,89,8,(-3),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1788,89,9,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1789,89,10,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1790,89,11,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1791,89,12,(+7),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1792,89,13,(+1),잇 테이크 투,Electronic Arts,액션
+1793,89,14,(+1),폴가이즈,Devolver Digital,어드벤처
+1794,89,15,(-),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,전략
+1795,89,16,(-4),에이지 오브 엠파이어 4,Xbox Game Studios,전략
+1796,89,17,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1797,89,18,(-1),하데스,Supergiant Games,액션
+1798,89,19,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+1799,89,20,(NEW),앤빌,Action Square,액션
+1800,90,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1801,90,2,(-),어몽 어스,Innersloth,전략
+1802,90,3,(+3),FIFA 22,Electronic Arts,레이싱
+1803,90,4,(+1),파피 플레이타임,MOB Games,액션
+1804,90,5,(+4),스타듀밸리,ConcernedApe,액션
+1805,90,6,(-2),배틀필드 2042,Electronic Arts,스포츠
+1806,90,7,(-4),포르자 호라이즌 5,Xbox Game Studios,스포츠
+1807,90,8,(+2),이터널 리턴,Nimble Neuron,액션
+1808,90,9,(+2),GTA 5,Rockstar Games,전략 기반 서바이벌
+1809,90,10,(-2),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",전원생활 시뮬레이션
+1810,90,11,(-4),풋볼 매니저 2022,SEGA,오픈월드 범죄 액션
+1811,90,12,(-),데드 바이 데이라이트,Behaviour Digital Inc.,전략
+1812,90,13,(-),잇 테이크 투,Electronic Arts,전략
+1813,90,14,(-),폴가이즈,Devolver Digital,액션
+1814,90,15,(+5),앤빌,Action Square,어드벤처
+1815,90,16,(+2),하데스,Supergiant Games,액션
+1816,90,17,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1817,90,18,(+3),휴먼: 폴 플랫,Curve Digital,시뮬레이션
+1818,90,19,(-4),슈퍼로봇대전 30,BANDAI NAMCO Entertainment,액션
+1819,90,20,(-1),더 심즈 4,Electronic Arts,음악
+1820,91,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1821,91,2,(-),어몽 어스,Innersloth,전략
+1822,91,3,(NEW),슈퍼피플,Wonder Games,액션
+1823,91,4,(-1),FIFA 22,Electronic Arts,스포츠
+1824,91,5,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1825,91,6,(+3),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1826,91,7,(-3),파피 플레이타임,MOB Games,액션
+1827,91,8,(+4),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1828,91,9,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1829,91,10,(-3),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1830,91,11,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1831,91,12,(+1),잇 테이크 투,Electronic Arts,액션
+1832,91,13,(-2),풋볼 매니저 2022,SEGA,스포츠
+1833,91,14,(-8),배틀필드 2042,Electronic Arts,액션
+1834,91,15,(-1),폴가이즈,Devolver Digital,어드벤처
+1835,91,16,(-),하데스,Supergiant Games,액션
+1836,91,17,(-2),앤빌,Action Square,액션
+1837,91,18,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1838,91,19,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1839,91,20,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1840,92,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1841,92,2,(-),어몽 어스,Innersloth,전략
+1842,92,3,(-),슈퍼피플,Wonder Games,액션
+1843,92,4,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1844,92,5,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1845,92,6,(-2),FIFA 22,Electronic Arts,스포츠
+1846,92,7,(-),파피 플레이타임,MOB Games,액션
+1847,92,8,(+4),잇 테이크 투,Electronic Arts,액션
+1848,92,9,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1849,92,10,(+1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1850,92,11,(-2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1851,92,12,(-2),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1852,92,13,(-),풋볼 매니저 2022,SEGA,스포츠
+1853,92,14,(+4),레드 데드 리뎀션 2,Rockstar Games,액션
+1854,92,15,(-),폴가이즈,Devolver Digital,어드벤처
+1855,92,16,(-),하데스,Supergiant Games,액션
+1856,92,17,(-),앤빌,Action Square,액션
+1857,92,18,(-4),배틀필드 2042,Electronic Arts,액션
+1858,92,19,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+1859,92,20,(NEW),레디오어낫,VOID Interactive,액션
+1860,93,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1861,93,2,(-),어몽 어스,Innersloth,전략
+1862,93,3,(-),슈퍼피플,Wonder Games,액션
+1863,93,4,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1864,93,5,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1865,93,6,(+2),잇 테이크 투,Electronic Arts,액션
+1866,93,7,(-1),FIFA 22,Electronic Arts,스포츠
+1867,93,8,(+2),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1868,93,9,(-2),파피 플레이타임,MOB Games,액션
+1869,93,10,(-1),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1870,93,11,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1871,93,12,(-),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1872,93,13,(-),풋볼 매니저 2022,SEGA,스포츠
+1873,93,14,(+6),레디오어낫,VOID Interactive,액션
+1874,93,15,(-1),레드 데드 리뎀션 2,Rockstar Games,액션
+1875,93,16,(-),하데스,Supergiant Games,액션
+1876,93,17,(-2),폴가이즈,Devolver Digital,어드벤처
+1877,93,18,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1878,93,19,(-1),배틀필드 2042,Electronic Arts,액션
+1879,93,20,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+1880,94,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1881,94,2,(-),어몽 어스,Innersloth,전략
+1882,94,3,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1883,94,4,(-1),슈퍼피플,Wonder Games,액션
+1884,94,5,(+1),잇 테이크 투,Electronic Arts,액션
+1885,94,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1886,94,7,(-),FIFA 22,Electronic Arts,스포츠
+1887,94,8,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1888,94,9,(-),파피 플레이타임,MOB Games,액션
+1889,94,10,(+4),레디오어낫,VOID Interactive,액션
+1890,94,11,(+6),폴가이즈,Devolver Digital,어드벤처
+1891,94,12,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1892,94,13,(-),풋볼 매니저 2022,SEGA,스포츠
+1893,94,14,(+1),레드 데드 리뎀션 2,Rockstar Games,액션
+1894,94,15,(-3),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1895,94,16,(-),하데스,Supergiant Games,액션
+1896,94,17,(-7),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1897,94,18,(NEW),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",액션
+1898,94,19,(+11),프롭나이트,MYTONA,액션
+1899,94,20,(-2),휴먼: 폴 플랫,Curve Digital,퍼즐
+1900,95,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1901,95,2,(-),어몽 어스,Innersloth,전략
+1902,95,3,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1903,95,4,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1904,95,5,(-),잇 테이크 투,Electronic Arts,액션
+1905,95,6,(+1),FIFA 22,Electronic Arts,스포츠
+1906,95,7,(-3),슈퍼피플,Wonder Games,액션
+1907,95,8,(+10),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",액션
+1908,95,9,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1909,95,10,(-1),파피 플레이타임,MOB Games,액션
+1910,95,11,(-1),레디오어낫,VOID Interactive,액션
+1911,95,12,(+7),프롭나이트,MYTONA,액션
+1912,95,13,(-2),폴가이즈,Devolver Digital,어드벤처
+1913,95,14,(-1),풋볼 매니저 2022,SEGA,스포츠
+1914,95,15,(-3),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1915,95,16,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1916,95,17,(-2),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1917,95,18,(-2),하데스,Supergiant Games,액션
+1918,95,19,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1919,95,20,(-3),데드 바이 데이라이트,Behaviour Digital Inc.,액션
+1920,96,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1921,96,2,(-),어몽 어스,Innersloth,전략
+1922,96,3,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1923,96,4,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1924,96,5,(-),잇 테이크 투,Electronic Arts,액션
+1925,96,6,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",액션
+1926,96,7,(NEW),유희왕 마스터 듀얼,Konami Digital Entertainment,전략
+1927,96,8,(+4),프롭나이트,MYTONA,액션
+1928,96,9,(-3),FIFA 22,Electronic Arts,스포츠
+1929,96,10,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1930,96,11,(+3),풋볼 매니저 2022,SEGA,스포츠
+1931,96,12,(+1),폴가이즈,Devolver Digital,어드벤처
+1932,96,13,(-6),슈퍼피플,Wonder Games,액션
+1933,96,14,(+8),갓 오브 워,PlayStation PC LLC,액션
+1934,96,15,(-5),파피 플레이타임,MOB Games,액션
+1935,96,16,(-5),레디오어낫,VOID Interactive,액션
+1936,96,17,(-2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1937,96,18,(-2),레드 데드 리뎀션 2,Rockstar Games,액션
+1938,96,19,(-2),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1939,96,20,(-1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1940,97,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1941,97,2,(NEW),뱀파이어 서바이버즈,poncle,액션
+1942,97,3,(-1),어몽 어스,Innersloth,전략
+1943,97,4,(+3),유희왕 마스터 듀얼,Konami Digital Entertainment,전략
+1944,97,5,(-2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1945,97,6,(-2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1946,97,7,(+1),프롭나이트,MYTONA,액션
+1947,97,8,(-2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",액션
+1948,97,9,(+1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1949,97,10,(-5),잇 테이크 투,Electronic Arts,액션
+1950,97,11,(+3),갓 오브 워,PlayStation PC LLC,액션
+1951,97,12,(-1),풋볼 매니저 2022,SEGA,스포츠
+1952,97,13,(-4),FIFA 22,Electronic Arts,스포츠
+1953,97,14,(-2),폴가이즈,Devolver Digital,어드벤처
+1954,97,15,(-),파피 플레이타임,MOB Games,액션
+1955,97,16,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1956,97,17,(-4),슈퍼피플,Wonder Games,액션
+1957,97,18,(-),레드 데드 리뎀션 2,Rockstar Games,액션
+1958,97,19,(-),포르자 호라이즌 5,Xbox Game Studios,레이싱
+1959,97,20,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+1960,98,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1961,98,2,(-),뱀파이어 서바이버즈,poncle,액션
+1962,98,3,(NEW),구스 구스 덕,"Gaggle Studios, Inc.",캐주얼
+1963,98,4,(-),유희왕 마스터 듀얼,Konami Digital Entertainment,전략
+1964,98,5,(-2),어몽 어스,Innersloth,전략
+1965,98,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1966,98,7,(+2),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",액션
+1967,98,8,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",액션
+1968,98,9,(-2),프롭나이트,MYTONA,액션
+1969,98,10,(+1),갓 오브 워,PlayStation PC LLC,액션
+1970,98,11,(-5),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1971,98,12,(+15),다잉 라이트 2: 스테이 휴먼,Techland,액션
+1972,98,13,(-3),잇 테이크 투,Electronic Arts,액션
+1973,98,14,(-2),풋볼 매니저 2022,SEGA,스포츠
+1974,98,15,(-2),FIFA 22,Electronic Arts,스포츠
+1975,98,16,(-2),폴가이즈,Devolver Digital,어드벤처
+1976,98,17,(+4),더 심즈 4,Electronic Arts,시뮬레이션
+1977,98,18,(-2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1978,98,19,(-4),파피 플레이타임,MOB Games,액션
+1979,98,20,(-),휴먼: 폴 플랫,Curve Digital,퍼즐
+1980,99,1,(+1),뱀파이어 서바이버즈,poncle,액션 로그라이트
+1981,99,2,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+1982,99,3,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+1983,99,4,(-),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+1984,99,5,(-),어몽 어스,Innersloth,생존
+1985,99,6,(+6),다잉 라이트 2: 스테이 휴먼,Techland,액션
+1986,99,7,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+1987,99,8,(+2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+1988,99,9,(-3),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+1989,99,10,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+1990,99,11,(+2),잇 테이크 투,Electronic Arts,액션
+1991,99,12,(-4),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+1992,99,13,(+1),풋볼 매니저 2022,SEGA,시뮬레이션
+1993,99,14,(-5),프롭나이트,MYTONA,생존 공포
+1994,99,15,(-),FIFA 22,Electronic Arts,스포츠
+1995,99,16,(-),폴가이즈,Devolver Digital,아케이드
+1996,99,17,(-),더 심즈 4,Electronic Arts,시뮬레이션
+1997,99,18,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+1998,99,19,(+1),휴먼: 폴 플랫,Curve Digital,퍼즐
+1999,99,20,(+1),포르자 호라이즌 5,Xbox Game Studios,오픈 월드 레이싱
+2000,100,1,(-),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2001,100,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2002,100,3,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2003,100,4,(-),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2004,100,5,(+2),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2005,100,6,(-1),어몽 어스,Innersloth,생존
+2006,100,7,(-1),다잉 라이트 2: 스테이 휴먼,Techland,액션
+2007,100,8,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2008,100,9,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2009,100,10,(-2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2010,100,11,(-),잇 테이크 투,Electronic Arts,액션
+2011,100,12,(NEW),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+2012,100,13,(-),풋볼 매니저 2022,SEGA,시뮬레이션
+2013,100,14,(-),프롭나이트,MYTONA,생존 공포
+2014,100,15,(-3),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2015,100,16,(-1),FIFA 22,Electronic Arts,스포츠
+2016,100,17,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2017,100,18,(-2),폴가이즈,Devolver Digital,아케이드
+2018,100,19,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2019,100,20,(-),포르자 호라이즌 5,Xbox Game Studios,오픈 월드 레이싱
+2020,101,1,(+4),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2021,101,2,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2022,101,3,(-1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2023,101,4,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2024,101,5,(+2),다잉 라이트 2: 스테이 휴먼,Techland,액션
+2025,101,6,(-),어몽 어스,Innersloth,생존
+2026,101,7,(-3),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2027,101,8,(+5),풋볼 매니저 2022,SEGA,시뮬레이션
+2028,101,9,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2029,101,10,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2030,101,11,(+1),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+2031,101,12,(-1),잇 테이크 투,Electronic Arts,액션
+2032,101,13,(-3),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2033,101,14,(+2),FIFA 22,Electronic Arts,스포츠
+2034,101,15,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2035,101,16,(-2),프롭나이트,MYTONA,생존 공포
+2036,101,17,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2037,101,18,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2038,101,19,(-1),폴가이즈,Devolver Digital,아케이드
+2039,101,20,(-),포르자 호라이즌 5,Xbox Game Studios,오픈 월드 레이싱
+2040,102,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2041,102,2,(-),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2042,102,3,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2043,102,4,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2044,102,5,(+1),어몽 어스,Innersloth,생존
+2045,102,6,(+1),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2046,102,7,(-2),다잉 라이트 2: 스테이 휴먼,Techland,액션
+2047,102,8,(+3),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+2048,102,9,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2049,102,10,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2050,102,11,(+1),잇 테이크 투,Electronic Arts,액션
+2051,102,12,(+1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2052,102,13,(+1),FIFA 22,Electronic Arts,스포츠
+2053,102,14,(+4),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2054,102,15,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2055,102,16,(-8),풋볼 매니저 2022,SEGA,시뮬레이션
+2056,102,17,(+5),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+2057,102,18,(-2),프롭나이트,MYTONA,생존 공포
+2058,102,19,(-2),더 심즈 4,Electronic Arts,시뮬레이션
+2059,102,20,(+4),파피 플레이타임,MOB Games,호러
+2060,103,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2061,103,2,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2062,103,3,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2063,103,4,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2064,103,5,(-),어몽 어스,Innersloth,생존
+2065,103,6,(+2),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+2066,103,7,(-1),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2067,103,8,(+2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2068,103,9,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2069,103,10,(+6),풋볼 매니저 2022,SEGA,시뮬레이션
+2070,103,11,(+1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2071,103,12,(-1),잇 테이크 투,Electronic Arts,액션
+2072,103,13,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2073,103,14,(-7),다잉 라이트 2: 스테이 휴먼,Techland,액션
+2074,103,15,(-2),FIFA 22,Electronic Arts,스포츠
+2075,103,16,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2076,103,17,(-),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+2077,103,18,(+2),파피 플레이타임,MOB Games,호러
+2078,103,19,(+2),폴가이즈,Devolver Digital,아케이드
+2079,103,20,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2080,104,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2081,104,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2082,104,3,(+1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2083,104,4,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2084,104,5,(-),어몽 어스,Innersloth,생존
+2085,104,6,(+2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2086,104,7,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2087,104,8,(NEW),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2088,104,9,(-2),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2089,104,10,(+2),잇 테이크 투,Electronic Arts,액션
+2090,104,11,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2091,104,12,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2092,104,13,(+2),FIFA 22,Electronic Arts,스포츠
+2093,104,14,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2094,104,15,(+3),파피 플레이타임,MOB Games,호러
+2095,104,16,(-6),풋볼 매니저 2022,SEGA,시뮬레이션
+2096,104,17,(+2),폴가이즈,Devolver Digital,아케이드
+2097,104,18,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2098,104,19,(-13),사이버펑크 2077,CD PROJEKT RED,오픈월드 액션 RPG
+2099,104,20,(-3),호라이즌 제로 던 컴플리트 에디션,"PlayStation Mobile, Inc.",오픈월드 액션 RPG
+2100,105,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2101,105,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2102,105,3,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2103,105,4,(-),뱀파이어 서바이버즈,poncle,액션 로그라이트
+2104,105,5,(+3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2105,105,6,(-1),어몽 어스,Innersloth,생존
+2106,105,7,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2107,105,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2108,105,9,(+1),잇 테이크 투,Electronic Arts,액션
+2109,105,10,(+1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2110,105,11,(-2),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2111,105,12,(+1),FIFA 22,Electronic Arts,스포츠
+2112,105,13,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2113,105,14,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2114,105,15,(+1),풋볼 매니저 2022,SEGA,시뮬레이션
+2115,105,16,(-1),파피 플레이타임,MOB Games,호러
+2116,105,17,(+1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2117,105,18,(-1),폴가이즈,Devolver Digital,아케이드
+2118,105,19,(+2),시티즈: 스카이 라인,Paradox Interactive,건설 시뮬레이션
+2119,105,20,(+4),휴먼: 폴 플랫,Curve Digital,퍼즐
+2120,106,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2121,106,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2122,106,3,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2123,106,4,(+1),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2124,106,5,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2125,106,6,(-),어몽 어스,Innersloth,생존
+2126,106,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2127,106,8,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2128,106,9,(-),잇 테이크 투,Electronic Arts,액션
+2129,106,10,(+3),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2130,106,11,(-1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2131,106,12,(-),FIFA 22,Electronic Arts,스포츠
+2132,106,13,(+13),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2133,106,14,(-3),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2134,106,15,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2135,106,16,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2136,106,17,(-),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2137,106,18,(-2),파피 플레이타임,MOB Games,호러
+2138,106,19,(-),시티즈: 스카이 라인,Paradox Interactive,건설 시뮬레이션
+2139,106,20,(-2),폴가이즈,Devolver Digital,아케이드
+2140,107,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2141,107,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2142,107,3,(+1),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2143,107,4,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2144,107,5,(-),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2145,107,6,(-),어몽 어스,Innersloth,생존
+2146,107,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2147,107,8,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2148,107,9,(+4),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2149,107,10,(-1),잇 테이크 투,Electronic Arts,액션
+2150,107,11,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2151,107,12,(-),FIFA 22,Electronic Arts,스포츠
+2152,107,13,(-2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2153,107,14,(+1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2154,107,15,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2155,107,16,(-),풋볼 매니저 2022,SEGA,시뮬레이션
+2156,107,17,(-3),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2157,107,18,(-),파피 플레이타임,MOB Games,호러
+2158,107,19,(-),시티즈: 스카이 라인,Paradox Interactive,건설 시뮬레이션
+2159,107,20,(+3),더 심즈 4,Electronic Arts,시뮬레이션
+2160,108,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2161,108,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2162,108,3,(-),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2163,108,4,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2164,108,5,(+1),어몽 어스,Innersloth,생존
+2165,108,6,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2166,108,7,(+2),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2167,108,8,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2168,108,9,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2169,108,10,(-),잇 테이크 투,Electronic Arts,액션
+2170,108,11,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2171,108,12,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2172,108,13,(-1),FIFA 22,Electronic Arts,스포츠
+2173,108,14,(+2),풋볼 매니저 2022,SEGA,시뮬레이션
+2174,108,15,(-),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2175,108,16,(-3),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2176,108,17,(-),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2177,108,18,(NEW),크로우즈,썸에이지,FPS/TPS
+2178,108,19,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+2179,108,20,(-2),파피 플레이타임,MOB Games,호러
+2180,109,1,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2181,109,2,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2182,109,3,(+2),어몽 어스,Innersloth,생존
+2183,109,4,(-1),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2184,109,5,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2185,109,6,(+1),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2186,109,7,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2187,109,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2188,109,9,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2189,109,10,(-),잇 테이크 투,Electronic Arts,액션
+2190,109,11,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2191,109,12,(+1),FIFA 22,Electronic Arts,스포츠
+2192,109,13,(+1),풋볼 매니저 2022,SEGA,시뮬레이션
+2193,109,14,(+1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2194,109,15,(+4),더 심즈 4,Electronic Arts,시뮬레이션
+2195,109,16,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2196,109,17,(-5),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2197,109,18,(-),크로우즈,썸에이지,FPS/TPS
+2198,109,19,(+2),하데스,Supergiant Games,액션
+2199,109,20,(-3),유희왕 마스터 듀얼,Konami Digital Entertainment,카드 전략
+2200,110,1,(+1),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2201,110,2,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2202,110,3,(-),어몽 어스,Innersloth,생존
+2203,110,4,(+3),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2204,110,5,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2205,110,6,(-),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2206,110,7,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2207,110,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2208,110,9,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2209,110,10,(+2),FIFA 22,Electronic Arts,스포츠
+2210,110,11,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2211,110,12,(-2),잇 테이크 투,Electronic Arts,액션
+2212,110,13,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+2213,110,14,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2214,110,15,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2215,110,16,(+1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2216,110,17,(-1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2217,110,18,(+1),하데스,Supergiant Games,액션
+2218,110,19,(-1),크로우즈,썸에이지,FPS/TPS
+2219,110,20,(+1),파피 플레이타임,MOB Games,호러
+2220,111,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2221,111,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2222,111,3,(-),어몽 어스,Innersloth,생존
+2223,111,4,(+16),파피 플레이타임,MOB Games,호러
+2224,111,5,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2225,111,6,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2226,111,7,(-1),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2227,111,8,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2228,111,9,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2229,111,10,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2230,111,11,(-1),FIFA 22,Electronic Arts,스포츠
+2231,111,12,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2232,111,13,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2233,111,14,(-2),잇 테이크 투,Electronic Arts,액션
+2234,111,15,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2235,111,16,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2236,111,17,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2237,111,18,(-),하데스,Supergiant Games,액션
+2238,111,19,(-2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2239,111,20,(+1),귀곡팔황,"鬼谷工作室, Lightning Games",선협 육성 오픈월드 RPG
+2240,112,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2241,112,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2242,112,3,(+1),파피 플레이타임,MOB Games,호러
+2243,112,4,(-1),어몽 어스,Innersloth,생존
+2244,112,5,(+4),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2245,112,6,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2246,112,7,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2247,112,8,(-2),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2248,112,9,(+3),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2249,112,10,(+1),FIFA 22,Electronic Arts,스포츠
+2250,112,11,(+2),더 심즈 4,Electronic Arts,시뮬레이션
+2251,112,12,(-5),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2252,112,13,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2253,112,14,(-),잇 테이크 투,Electronic Arts,액션
+2254,112,15,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2255,112,16,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2256,112,17,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2257,112,18,(-),하데스,Supergiant Games,액션
+2258,112,19,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2259,112,20,(NEW),오버프라임,Netmarble F&C,MOBA
+2260,113,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2261,113,2,(+1),파피 플레이타임,MOB Games,호러
+2262,113,3,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2263,113,4,(-),어몽 어스,Innersloth,생존
+2264,113,5,(+4),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2265,113,6,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2266,113,7,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2267,113,8,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2268,113,9,(+1),FIFA 22,Electronic Arts,스포츠
+2269,113,10,(-4),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2270,113,11,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2271,113,12,(+2),잇 테이크 투,Electronic Arts,액션
+2272,113,13,(-),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2273,113,14,(+7),폴가이즈,Devolver Digital,아케이드
+2274,113,15,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2275,113,16,(-4),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2276,113,17,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2277,113,18,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2278,113,19,(+1),오버프라임,Netmarble F&C,MOBA
+2279,113,20,(-2),하데스,Supergiant Games,액션
+2280,114,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2281,114,2,(-),파피 플레이타임,MOB Games,호러
+2282,114,3,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2283,114,4,(-),어몽 어스,Innersloth,생존
+2284,114,5,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2285,114,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2286,114,7,(+2),FIFA 22,Electronic Arts,스포츠
+2287,114,8,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2288,114,9,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2289,114,10,(-),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2290,114,11,(+3),폴가이즈,Devolver Digital,아케이드
+2291,114,12,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+2292,114,13,(-1),잇 테이크 투,Electronic Arts,액션
+2293,114,14,(+3),풋볼 매니저 2022,SEGA,시뮬레이션
+2294,114,15,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2295,114,16,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2296,114,17,(+1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2297,114,18,(+6),숲속의 작은 마녀,SUNNY SIDE UP,어드벤처
+2298,114,19,(-3),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2299,114,20,(-),하데스,Supergiant Games,액션
+2300,115,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2301,115,2,(-),파피 플레이타임,MOB Games,호러
+2302,115,3,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2303,115,4,(+1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2304,115,5,(-1),어몽 어스,Innersloth,생존
+2305,115,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2306,115,7,(+2),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2307,115,8,(+1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2308,115,9,(+1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2309,115,10,(+1),폴가이즈,Devolver Digital,아케이드
+2310,115,11,(+2),잇 테이크 투,Electronic Arts,액션
+2311,115,12,(+2),풋볼 매니저 2022,SEGA,시뮬레이션
+2312,115,13,(+3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2313,115,14,(+1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2314,115,15,(+3),숲속의 작은 마녀,SUNNY SIDE UP,어드벤처
+2315,115,16,(+1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2316,115,17,(-10),FIFA 22,Electronic Arts,스포츠
+2317,115,18,(+2),하데스,Supergiant Games,액션
+2318,115,19,(+2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2319,115,20,(+3),더 포레스트,Endnight Games Ltd,서바이벌
+2320,116,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2321,116,2,(-),파피 플레이타임,MOB Games,호러
+2322,116,3,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2323,116,4,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2324,116,5,(-),어몽 어스,Innersloth,생존
+2325,116,6,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2326,116,7,(+10),FIFA 22,Electronic Arts,스포츠
+2327,116,8,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2328,116,9,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2329,116,10,(-1),폴가이즈,Devolver Digital,아케이드
+2330,116,11,(-1),잇 테이크 투,Electronic Arts,액션
+2331,116,12,(-),풋볼 매니저 2022,SEGA,시뮬레이션
+2332,116,13,(-4),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2333,116,14,(+1),숲속의 작은 마녀,SUNNY SIDE UP,어드벤처
+2334,116,15,(+7),더 심즈 4,Electronic Arts,시뮬레이션
+2335,116,16,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2336,116,17,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2337,116,18,(+5),V 라이징,Stunlock Studios,오픈월드 서바이벌
+2338,116,19,(-5),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2339,116,20,(-1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2340,117,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2341,117,2,(+1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2342,117,3,(-1),파피 플레이타임,MOB Games,호러
+2343,117,4,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2344,117,5,(-),어몽 어스,Innersloth,생존
+2345,117,6,(+1),FIFA 22,Electronic Arts,스포츠
+2346,117,7,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2347,117,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2348,117,9,(+2),잇 테이크 투,Electronic Arts,액션
+2349,117,10,(+2),풋볼 매니저 2022,SEGA,시뮬레이션
+2350,117,11,(-2),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2351,117,12,(-2),폴가이즈,Devolver Digital,아케이드
+2352,117,13,(-),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2353,117,14,(+22),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+2354,117,15,(+4),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2355,117,16,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+2356,117,17,(+1),V 라이징,Stunlock Studios,오픈월드 서바이벌
+2357,117,18,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2358,117,19,(-3),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2359,117,20,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2360,118,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2361,118,2,(+10),폴가이즈,Devolver Digital,아케이드
+2362,118,3,(-1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2363,118,4,(-1),파피 플레이타임,MOB Games,호러
+2364,118,5,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2365,118,6,(-1),어몽 어스,Innersloth,생존
+2366,118,7,(-1),FIFA 22,Electronic Arts,스포츠
+2367,118,8,(-1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2368,118,9,(-1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2369,118,10,(-),풋볼 매니저 2022,SEGA,시뮬레이션
+2370,118,11,(-2),잇 테이크 투,Electronic Arts,액션
+2371,118,12,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2372,118,13,(+1),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+2373,118,14,(-1),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2374,118,15,(-),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2375,118,16,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2376,118,17,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+2377,118,18,(+3),레디오어낫,VOID Interactive,FPS
+2378,118,19,(-),소울워커,"Lion Games Co., Ltd.",액션 RPG
+2379,118,20,(+2),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2380,119,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2381,119,2,(+1),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2382,119,3,(+2),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2383,119,4,(-),파피 플레이타임,MOB Games,호러
+2384,119,5,(+2),FIFA 22,Electronic Arts,스포츠
+2385,119,6,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2386,119,7,(-1),어몽 어스,Innersloth,생존
+2387,119,8,(+1),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2388,119,9,(+4),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+2389,119,10,(+1),잇 테이크 투,Electronic Arts,액션
+2390,119,11,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2391,119,12,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2392,119,13,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2393,119,14,(+4),레디오어낫,VOID Interactive,FPS
+2394,119,15,(+1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2395,119,16,(NEW),DNF 듀얼,"NEOPLE Inc., NEXON Korea Corporation.",대전 액션
+2396,119,17,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2397,119,18,(+2),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2398,119,19,(-5),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2399,119,20,(+1),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2400,120,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2401,120,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2402,120,3,(+2),FIFA 22,Electronic Arts,스포츠
+2403,120,4,(+2),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2404,120,5,(-1),파피 플레이타임,MOB Games,호러
+2405,120,6,(+1),어몽 어스,Innersloth,생존
+2406,120,7,(-4),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2407,120,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2408,120,9,(-),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+2409,120,10,(-),잇 테이크 투,Electronic Arts,액션
+2410,120,11,(+2),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2411,120,12,(-),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2412,120,13,(-2),풋볼 매니저 2022,SEGA,시뮬레이션
+2413,120,14,(-),레디오어낫,VOID Interactive,FPS
+2414,120,15,(+1),DNF 듀얼,"NEOPLE Inc., NEXON Korea Corporation.",대전 액션
+2415,120,16,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2416,120,17,(-),더 심즈 4,Electronic Arts,시뮬레이션
+2417,120,18,(-),롱빈터,Uuvana Studios,오픈월드 샌드박스
+2418,120,19,(-),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2419,120,20,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2420,121,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2421,121,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2422,121,3,(+1),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2423,121,4,(-1),FIFA 22,Electronic Arts,스포츠
+2424,121,5,(+1),어몽 어스,Innersloth,생존
+2425,121,6,(-1),파피 플레이타임,MOB Games,호러
+2426,121,7,(-),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2427,121,8,(-),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2428,121,9,(NEW),몬스터 헌터 라이즈: 선브레이크,"CAPCOM Co., Ltd.",헌팅 액션
+2429,121,10,(-),잇 테이크 투,Electronic Arts,액션
+2430,121,11,(+1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2431,121,12,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2432,121,13,(-),풋볼 매니저 2022,SEGA,시뮬레이션
+2433,121,14,(-5),아크: 서바이벌 이볼브드,Studio Wildcard,어드벤처
+2434,121,15,(-),DNF 듀얼,"NEOPLE Inc., NEXON Korea Corporation.",대전 액션
+2435,121,16,(-2),레디오어낫,VOID Interactive,FPS
+2436,121,17,(-1),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2437,121,18,(-1),더 심즈 4,Electronic Arts,시뮬레이션
+2438,121,19,(-),뱀파이어 서바이버즈,poncle,액션 로그라이크
+2439,121,20,(-),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2440,122,1,(-),플레이어언노운스 배틀그라운드,PUBG Corporation,서바이벌 슈팅
+2441,122,2,(-),엘든 링,"FromSoftware Inc., BANDAI NAMCO Entertainment",오픈월드 액션 RPG
+2442,122,3,(-),스타듀밸리,ConcernedApe,전원생활 시뮬레이션
+2443,122,4,(+1),어몽 어스,Innersloth,생존
+2444,122,5,(+3),GTA 5,Rockstar Games,오픈월드 범죄 액션
+2445,122,6,(-2),FIFA 22,Electronic Arts,스포츠
+2446,122,7,(-1),파피 플레이타임,MOB Games,호러
+2447,122,8,(-1),이터널 리턴,Nimble Neuron,전략 기반 서바이벌
+2448,122,9,(-),몬스터 헌터 라이즈: 선브레이크,"CAPCOM Co., Ltd.",헌팅 액션
+2449,122,10,(+22),스트레이,Annapurna Interactive,3인칭 고양이 어드벤처
+2450,122,11,(-1),잇 테이크 투,Electronic Arts,액션
+2451,122,12,(-1),구스 구스 덕,"Gaggle Studios, Inc.",생존
+2452,122,13,(-1),몬스터 헌터 라이즈,"CAPCOM Co., Ltd.",헌팅 액션
+2453,122,14,(-1),풋볼 매니저 2022,SEGA,시뮬레이션
+2454,122,15,(+2),레드 데드 리뎀션 2,Rockstar Games,오픈월드
+2455,122,16,(-1),DNF 듀얼,"NEOPLE Inc., NEXON Korea Corporation.",대전 액션
+2456,122,17,(+1),더 심즈 4,Electronic Arts,시뮬레이션
+2457,122,18,(+2),갓 오브 워,PlayStation PC LLC,액션 어드벤처
+2458,122,19,(-3),레디오어낫,VOID Interactive,FPS
+2459,122,20,(+1),포르자 호라이즌 5,Xbox Game Studios,오픈 월드 레이싱
